@@ -1,0 +1,13 @@
+# Normalisér linjeskift: LF i repoet, uanset hvilken maskine der committer.
+# Uden dette rapporterer git hele filen som ændret, når en Windows-editor
+# gemmer med CRLF, og de reelle ændringer bliver umulige at se i diffen.
+* text=auto eol=lf
+
+# Binære filer må aldrig røres.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary

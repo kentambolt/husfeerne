@@ -2,7 +2,7 @@
 
 Følg planen fase for fase. Sæt kryds, når et punkt er klaret. Fase 0–1 er fundamentet – spring dem ikke over, for alt det andet bygger ovenpå.
 
-> **Om sitet:** Statisk hjemmeside på GitHub Pages, uden database og uden cookies. Den findes på fire sprog – dansk, engelsk, tysk og ukrainsk – som besøgende vælger med flag-vælgeren øverst. Dansk er standard, og det er den danske udgave Google indekserer. Formularerne sendes via Formspree. Se "Flersproget SEO" i Fase 5, hvis I senere vil have de tre andre sprog med i søgeresultaterne.
+> **Om sitet:** Statisk hjemmeside på GitHub Pages, uden database og uden cookies. Den findes på fire sprog – dansk, engelsk, tysk og ukrainsk – som besøgende vælger med flag-vælgeren øverst. Dansk er standard, og det er den danske udgave Google indekserer. Formularerne sendes via Formspree. Vores interne dokumenter ligger på `/cherpak/` – et fælles arkiv for os tre på dansk, engelsk og russisk. Det er ikke hemmeligt, men siderne er markeret `noindex`, så de ikke konkurrerer med salgssiderne i Google. Kilderne ligger i `cherpak/_src/` og bygges med `python cherpak/build.py`; kilder og trykfiler udgives ikke. Se "Flersproget SEO" i Fase 5, hvis I senere vil have de tre andre sprog med i søgeresultaterne.
 
 ---
 
@@ -19,12 +19,46 @@ Følg planen fase for fase. Sæt kryds, når et punkt er klaret. Fase 0–1 er f
 - [ ] **Opret firma-email** hej@husfeerne.dk og job@husfeerne.dk (følger ofte med domænet, ellers Google Workspace).
 - [ ] **Tegn forsikringer**: erhvervsansvarsforsikring (I lover det på hjemmesiden!) og lovpligtig arbejdsskadeforsikring for medarbejderne.
 - [ ] **Ansættelseskontrakter og løn**: skriftlige kontrakter til medarbejderne, lønsystem (fx Salary eller Dataløn). Tjek 3F Privat Service-overenskomsten som benchmark – ordnede forhold er en del af jeres brand.
-- [ ] **Indsæt CVR-nummeret** tre steder: `index.html` (kontaktsektion + footer), `privatlivspolitik.html` og `handelsbetingelser.html`. Søg efter `[INDSÆT CVR-NUMMER]`. CVR på hjemmesiden er et lovkrav (e-handelsloven).
+- [ ] **Indsæt CVR-nummeret** tre steder: `index.html` (kontaktsektion + footer), `privatlivspolitik.html` og `handelsbetingelser.html`. Placeholderteksten er fjernet fra sitet, så der ikke står noget ufærdigt offentligt – søg i stedet efter `NNNNNNNN`, som markerer de fire steder. I `index.html` ligger CVR-feltet i kontaktkortet som en HTML-kommentar, der bare skal åbnes igen. CVR på hjemmesiden er et lovkrav (e-handelsloven).
 - [ ] **Tjek telefonnummer og adresse** på sitet. Nummeret 60 60 33 60 og Akvavitvej 7 er overført fra RenGlad – skal Husfeerne have sit eget nummer, skal det rettes i `index.html` (kontaktsektion, footer, structured data, fejlbeskederne i JavaScript) samt i begge juridiske sider.
 - [ ] **Få en advokat til at gennemlæse** handelsbetingelser og privatlivspolitik. De er solide udgangspunkter, ikke juridisk rådgivning – og privatlivspolitikken beskriver nu overførsel af persondata til USA, hvilket er værd at få bekræftet.
-- [ ] **Bed om logoet som PNG med transparent baggrund og tætbeskåret**. Sitet bruger `husfeerne-logo.jpg`, som har hvid baggrund og bred tom margin. Det er løst med `mix-blend-mode: multiply` og negative marginer i CSS, men en tætbeskåret PNG ville gøre begge hacks unødvendige og logoet skarpere.
+- [x] **Egne fotos på plads.** Seks billeder af os i arbejde (`foto-*.jpg`) bruges på forsiden og undersiderne – lampe, bad, sofarens, køkken, puder og gulvvask. Stock-fotoet af sofarens er erstattet af vores eget.
+- [x] **Logo på plads.** Sitet bruger `husfeerne-logo.png` – en web-optimeret udgave på 440 px bredde (46 KB), som er rigelig til de 148×66 px logoet vises i. Den højopløste original ligger som `husfeerne-logo-print.png` (1880 px, 479 KB) til tryk, visitkort og bilfolie; den indlæses ikke af hjemmesiden. Filen `husfeerne-logo.jpg` bruges ikke længere og kan slettes.
 
-> **Vigtigt om prisen:** 212 kr./time ex moms (265 kr. inkl.) er aggressivt. Regn efter: løn (~160–190 kr./time inkl. feriepenge og pension), transport, produkter, forsikring og administration. Overvej et minimumsbesøg på 3 timer, så kørsel ikke æder marginen på små opgaver.
+> **Om prisen:** 325 kr./time inkl. moms (260 kr. ex) med minimum 3 timer pr. besøg og gratis kørsel kun i Aalborg Kommune er sat efter [konkurrentanalysen](analyse.html), afsnit 4–5. Det giver ca. +25 kr. pr. fakturerbar time for en nyansat på overenskomst – tyndt, men positivt. Sigt mod 349 kr., når de første 10 anmeldelser er i hus. Lad revisoren regne pension og øvrige arbejdsgiverbidrag præcist. Hele regnestykket står i [Sådan regner vi prisen ud](priser.html) – på dansk, engelsk og russisk, så alle tre kan forklare det.
+
+## Fase 0b · Godkend teksten på de nye servicesider
+
+Sitet har fået seks undersider: `flytterengoering-aalborg.html`, `privat-rengoering-aalborg.html`,
+`erhvervsrengoering-aalborg.html`, `vinduespudsning-aalborg.html`, `hovedrengoering-aalborg.html`
+og `trappevask-aalborg.html`. Priser og garantier er hentet ordret fra forsiden, men nedenstående
+er **nye udsagn, der ikke stod på sitet før**. Læs dem igennem, og ret eller slet det, I ikke kan stå
+ved – det er formuleringer, en kunde kan holde jer fast på.
+
+- [ ] **Tidsestimater** (mine skøn, ikke jeres tal): lejlighed 70–90 m² ≈ 3 timer, hus 130–160 m² ≈ 4–5 timer,
+      hovedrengøring 6–8 timer for lejlighed og 10–12 for hus. Ret dem til det, I reelt bruger.
+- [ ] **Flytterengøring – vinduer**: siden siger, at vinduer *indvendigt* er med i den faste pris, og at
+      *udvendigt* er tilkøb. Bekræft, at det er den rigtige afgrænsning.
+- [ ] **Flytterengøring – ikke inkluderet**: rens af væg-til-væg-tæpper og bortkørsel af møbler/affald er
+      beskrevet som tilkøb, ikke standard.
+- [ ] **Vinduespudsning – rentvandsanlæg**: siden beskriver afioniseret vand ført op gennem teleskopstang,
+      og at der ikke tørres efter med klud. Bekræft, at det svarer til jeres udstyr.
+- [ ] **Besøg før tilbud**: erhvervs- og trappevaskesiden lover, at I kommer forbi og ser lokalerne/opgangen,
+      før I giver tilbud. Vil I binde jer til det?
+- [ ] **Anbefalede intervaller**: vinduer hver 8. uge, opgange hver 14. dag. Skift tal, hvis I hellere vil andet.
+- [ ] **Erhverv – faktura**: "fakturaen sendes pr. email med de oplysninger, din bogholder skal have".
+      Skal der stå noget om EAN-fakturering til offentlige kunder?
+- [ ] **Trappevask – fast pris i aftaleperioden** og "ingen binding ud over den aftaleperiode, I selv vælger".
+- [ ] **Servicefradraget** står nu på tre sider (forside, privat rengøring, hovedrengøring) med 18.300 kr.
+      pr. voksen og ca. 26 % skatteværdi. Tallet indgår også i FAQ-structured data, som Google kan vise
+      direkte i søgeresultatet – tjek satsen for 2026 hos Skattestyrelsen, og sæt et årligt tjek i kalenderen.
+
+> **Teknisk om undersiderne:** CSS og JavaScript ligger nu i `styles.css` og `app.js`, som alle sider deler –
+> ret designet ét sted. Siderne er almindelig HTML, som kan redigeres direkte. Skal der flere til
+> (tekstilrens, bilrengøring, Airbnb, byggerengøring), er den nemmeste vej at kopiere en eksisterende side
+> og skifte tekst, `<title>`, `description`, `canonical` og JSON-LD ud – og huske at føje den til
+> `sitemap.xml` og footeren. Filen `.gitattributes` sikrer, at git ikke længere melder hele filer som
+> ændrede, når en Windows-editor gemmer med CRLF.
 
 ## Fase 1 · Bliv synlig, hvor kunderne søger (uge 1–2)
 

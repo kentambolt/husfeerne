@@ -27,10 +27,26 @@ jobs:
     - name: ⚙️ Konfigurér Pages
       uses: actions/configure-pages@v5
 
-    - name: 📦 Pak sitet (hele rodmappen – intet byggetrin)
+    # Interne noter (*.md) og trykfiler skal ligge i repoet, men ikke på husfeerne.dk.
+    - name: 📦 Saml sitet uden interne filer
+      run: |
+        mkdir _site
+        rsync -a ./ _site/ \
+          --exclude '.git' \
+          --exclude '.github' \
+          --exclude '_site' \
+          --exclude '*.md' \
+          --exclude 'cherpak/_src' \
+          --exclude '*.py' \
+          --exclude '.gitattributes' \
+          --exclude 'husfeerne-logo-print.png' \
+          --exclude 'husfeerne-logo.jpg'
+        echo "Udgives:"; ls -la _site
+
+    - name: ⬆️ Upload
       uses: actions/upload-pages-artifact@v3
       with:
-        path: .
+        path: _site
 
     - name: 🌐 Udgiv
       id: deployment
