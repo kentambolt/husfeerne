@@ -1,0 +1,37 @@
+name: 🚀 Deploy til GitHub Pages
+on:
+  push:
+    branches: [main]   # kun main udgives – PR-branches deployer ikke
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: 🚚 Hent koden
+      uses: actions/checkout@v4
+
+    - name: ⚙️ Konfigurér Pages
+      uses: actions/configure-pages@v5
+
+    - name: 📦 Pak sitet (hele rodmappen – intet byggetrin)
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: .
+
+    - name: 🌐 Udgiv
+      id: deployment
+      uses: actions/deploy-pages@v4
