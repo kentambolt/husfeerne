@@ -1,4 +1,4 @@
-# Husfeerne – Din plan for at få de første kunder
+# Husfeerne – vores plan for at få de første kunder
 
 Følg planen fase for fase. Sæt kryds, når et punkt er klaret. Fase 0–1 er fundamentet – spring dem ikke over, for alt det andet bygger ovenpå.
 
@@ -22,10 +22,10 @@ Følg planen fase for fase. Sæt kryds, når et punkt er klaret. Fase 0–1 er f
 - [ ] **Indsæt CVR-nummeret** tre steder: `index.html` (kontaktsektion + footer), `privatlivspolitik.html` og `handelsbetingelser.html`. Placeholderteksten er fjernet fra sitet, så der ikke står noget ufærdigt offentligt – søg i stedet efter `NNNNNNNN`, som markerer de fire steder. I `index.html` ligger CVR-feltet i kontaktkortet som en HTML-kommentar, der bare skal åbnes igen. CVR på hjemmesiden er et lovkrav (e-handelsloven).
 - [ ] **Tjek telefonnummer og adresse** på sitet. Nummeret 60 60 33 60 og Akvavitvej 7 er overført fra RenGlad – skal Husfeerne have sit eget nummer, skal det rettes i `index.html` (kontaktsektion, footer, structured data, fejlbeskederne i JavaScript) samt i begge juridiske sider.
 - [ ] **Få en advokat til at gennemlæse** handelsbetingelser og privatlivspolitik. De er solide udgangspunkter, ikke juridisk rådgivning – og privatlivspolitikken beskriver nu overførsel af persondata til USA, hvilket er værd at få bekræftet.
-- [x] **Egne fotos på plads.** Seks billeder af os i arbejde (`foto-*.jpg`) bruges på forsiden og undersiderne – lampe, bad, sofarens, køkken, puder og gulvvask. Stock-fotoet af sofarens er erstattet af vores eget.
+- [x] **Egne fotos på plads.** Ni billeder af os i arbejde bruges på forsiden og undersiderne: teamfoto med logo på trøjerne (hero og "Mød holdet"), puder ("Vores tilgang"), sofarens (forsidens kort), lampe (hovedrengøring), støvsugning og køkken (privat rengøring), ovn og bad (flytterengøring), gulvvask (erhverv). De komprimerede udgaver hedder `foto-*.jpg` og `husfeerne-team.jpg`; originalerne ligger i `raw_photos/` og udgives ikke.
 - [x] **Logo på plads.** Sitet bruger `husfeerne-logo.png` – en web-optimeret udgave på 440 px bredde (46 KB), som er rigelig til de 148×66 px logoet vises i. Den højopløste original ligger som `husfeerne-logo-print.png` (1880 px, 479 KB) til tryk, visitkort og bilfolie; den indlæses ikke af hjemmesiden. Filen `husfeerne-logo.jpg` bruges ikke længere og kan slettes.
 
-> **Om prisen:** 325 kr./time inkl. moms (260 kr. ex) med minimum 3 timer pr. besøg og gratis kørsel kun i Aalborg Kommune er sat efter [konkurrentanalysen](analyse.html), afsnit 4–5. Det giver ca. +25 kr. pr. fakturerbar time for en nyansat på overenskomst – tyndt, men positivt. Sigt mod 349 kr., når de første 10 anmeldelser er i hus. Lad revisoren regne pension og øvrige arbejdsgiverbidrag præcist. Hele regnestykket står i [Sådan regner vi prisen ud](priser.html) – på dansk, engelsk og russisk, så alle tre kan forklare det.
+> **Om prisen:** 325 kr./time inkl. moms (260 kr. ex), minimum 3 timer pr. besøg og gratis kørsel kun i Aalborg Kommune. Timeprisen dækker omtrent lønnen til en nyansat på overenskomst; marginen kommer fra tætte ruter, flytte- og specialopgaver og fra 349 kr., når de første 10 anmeldelser er i hus. Hele regnestykket står i [Sådan er vores priser](priser.html) og markedsbilledet i [konkurrentanalysen](analyse.html) – begge på dansk, engelsk og russisk. Lad revisoren regne pension og øvrige arbejdsgiverbidrag præcist.
 
 ## Fase 0b · Godkend teksten på de nye servicesider
 
@@ -109,7 +109,6 @@ ved – det er formuleringer, en kunde kan holde jer fast på.
 - [ ] **Om jobopslag – vær opmærksom her.** Sitet må gerne fortælle kunderne, at teamet i dag består af kvinder; det er en faktuel oplysning. Men et *jobopslag* må efter ligebehandlingsloven ikke henvende sig til ét køn, og forskelsbehandlingsloven forbyder desuden at målrette efter alder eller udseende. Jobsektionen på sitet er derfor holdt neutral med vilje – lad den blive det, også når I selv skriver opslag på Jobindex eller Facebook. Formuleringer som "smilende og serviceminded medarbejder" er helt i orden.
 - [ ] **Udbyg SEO med undersider**: separate sider pr. ydelse og by ("Flytterengøring Aalborg", "Erhvervsrengøring Hjørring" osv.) – den stærkeste næste SEO-investering, når der er drift i forretningen.
 - [ ] **Flersproget SEO – næste skridt.** Sprogvælgeren skifter teksten i browseren, men alle fire sprog deler samme URL (husfeerne.dk/). Google indekserer derfor kun den danske udgave. Vil I også rangere på engelske, tyske og ukrainske søgninger, kræver det separate adresser – fx `husfeerne.dk/en/`, `/de/`, `/uk/` – med `hreflang`-tags mellem dem og oversat title og meta description på hver side. Teksterne findes allerede i `index.html` (i `data-en`, `data-de` og `data-uk`), så det er hovedsagelig et spørgsmål om at splitte filen op. Tag det, når de danske sider konverterer.
-- [ ] **Nyt teamfoto, når I får poloer med logo på.** Gem det som `husfeerne-team.jpg` i rodmappen – det bruges tre steder (hero, "Vores tilgang", "Mød holdet") og som billede ved deling på sociale medier. Det nuværende foto er uden logo på tøjet.
 - [ ] **Månedligt tjek (30 min.)**: Search Console-kliks, Google Business-opkald, antal anmeldelser, "hvor hørte du om os"-listen, og Formspree-forbrug.
 
 ---

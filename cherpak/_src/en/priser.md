@@ -1,39 +1,36 @@
-# How we work out our price – and why DKK 325
+# Our prices – and why they are what they are
 
 *A document from our shared archive, September 2026.*
 
-The three of us run Husfeerne and plan everything together. We share one goal: that the work pays a decent wage – one you can live on and pay your bills with – without wearing you out. The price we charge the customer is the only source of that wage. So here is the whole line of thinking and every calculation: where the new numbers come from, what the competitors charge, and why the old price could not hold. None of it is secret – it is all built on competitors' public prices and the official rates of the collective agreement.
+The three of us run Husfeerne and plan everything together. We share one goal: that the work pays a decent wage – one you can live on and pay your bills with – without wearing you out. The price we charge the customer is the only source of that wage. So this document sets out what our prices are, what a working hour costs us, where we sit relative to the others in Aalborg, and why the numbers are what they are. It is all built on competitors' public prices and the official rates of the collective agreement.
 
 ---
 
-## 1. What was, and what is
+## 1. Our prices
 
-| Service | Before | Now |
+| Service | Price | What it covers |
 |---|---|---|
-| Home cleaning, per hour | DKK 265 incl. VAT (212 ex) | **DKK 325 incl. VAT (260 ex)** |
-| Minimum per visit | None | **3 hours** |
-| Travel | Free across all of North Jutland | **Free within Aalborg Municipality** – outside it, a fee agreed up front |
-| Business cleaning | DKK 212/hour ex VAT | **DKK 260/hour ex VAT** |
-| Move-out cleaning | from DKK 1,495 | **from DKK 1,995** |
-| Sofa, 3-seater | from DKK 499 | **from DKK 649** |
-| Sofa, 2-seater | from DKK 399 | **from DKK 549** |
-| Armchair / mattress | from DKK 199 / 299 | **from DKK 249 / 349** |
-| Car interior | from DKK 399 · with seats 699 | **from DKK 549 · with seats 849** |
-| Windows, stairwells | unchanged | unchanged |
+| Home cleaning, per hour | **DKK 325 incl. VAT** (260 ex) | All products and equipment. Minimum 3 hours per visit |
+| Business cleaning, per hour | **DKK 260 ex VAT** | Same hourly rate as private, without VAT |
+| Move-out cleaning | **from DKK 1,995** | Fixed price by size of the home, agreed before we start |
+| Stairwells | **from DKK 18 per flat per visit** ex VAT | Regular agreement, at least every 4 weeks |
+| Window cleaning | **from DKK 129** (flat) / **149** (house) per visit | Outside; inside as an add-on |
+| Sofa, 3-seater / 2-seater | **from DKK 649 / 549** | Extraction cleaning in the customer's home |
+| Armchair / mattress | **from DKK 249 / 349** | Extraction cleaning |
+| Car interior | **from DKK 549** · with seat cleaning **849** | We come to the customer |
+| Travel | **Free within Aalborg Municipality** | Outside it, a fee agreed up front |
 
-For a private customer, DKK 325 is really **about DKK 240 an hour** after the *servicefradrag* tax deduction (26 % of the labour cost, up to DKK 18,300 per adult per year). That is an important argument – see section 6.
+For a private customer, DKK 325 is really **about DKK 240 an hour** after the *servicefradrag* tax deduction (26 % of the labour cost, up to DKK 18,300 per adult per year). It is our most important price argument – see section 6.
 
 ---
 
-## 2. Why DKK 265 could not stay
+## 2. What a working hour costs us
 
-In short: **at the old price the company lost money on every single hour worked** – before petrol, products, insurance and bookkeeping were even paid.
+The website promises customers "fair pay and proper conditions" and uses the 3F collective agreement (Serviceoverenskomsten) as its benchmark. So that is what we calculate with.
 
-The website promises customers "fair pay and proper conditions" and uses the 3F collective agreement (Serviceoverenskomsten) as its benchmark. That is right – and it means the sums have to be done honestly.
+### One paid hour
 
-### What one paid working hour costs the company
-
-Rates in the DI/3F Service Agreement from 15 March 2026:
+Rates in the DI/3F Service Agreement from 15 March 2026, with everything an employer must add on top:
 
 | Item | New employee (0–12 months) | Experienced (3+ years) |
 |---|---|---|
@@ -43,98 +40,92 @@ Rates in the DI/3F Service Agreement from 15 March 2026:
 | Pension, employer share approx. 8 % *(estimate)* | 13.40 | 14.79 |
 | ATP, AES, barsel.dk etc., approx. | 4.00 | 4.00 |
 | Sick leave, approx. 4 % | 6.70 | 7.40 |
-| **Total: cost per paid hour** | **≈ DKK 229** | **≈ DKK 253** |
+| **Cost per paid hour** | **≈ DKK 229** | **≈ DKK 253** |
 
-> Note: this is **not take-home pay**. It is what every paid hour costs the company – including everything an employer must add on top of the rate. How we share what is left is a decision the three of us make together – but first there has to be something left.
+> This is **not take-home pay** – it is what every paid hour costs the company. How we share what is left is a decision the three of us make together. But first there has to be something left.
 
 ### The customer does not pay for all our hours
 
-The customer pays only for the time in their home. Driving from one customer to the next, loading the car, the short break between jobs – the company pays us for all of it, but none of it can be billed. If roughly 80 % of each working hour can be billed, the cost per **billable** hour becomes:
+The customer pays only for the time in their home. Driving between customers, loading the car and breaks between jobs are paid by the company but cannot be billed. With a 3-hour minimum per visit and free travel only within Aalborg Municipality, roughly **85 %** of working time can be billed. So one hour we can invoice costs:
 
-- new employee: 229 ÷ 0.80 ≈ **DKK 287**
-- experienced: 253 ÷ 0.80 ≈ **DKK 316**
+- new employee: 229 ÷ 0.85 ≈ **DKK 269**
+- experienced: 253 ÷ 0.85 ≈ **DKK 298**
 
-### Compared with what we charged
-
-The customer paid DKK 265 incl. VAT. VAT (25 %) goes to the state; the company keeps **DKK 212**.
-
-| | New employee | Experienced |
-|---|---|---|
-| Cost per hour billed to the customer | 287 | 316 |
-| Revenue ex VAT | 212 | 212 |
-| **Result** | **−DKK 75 per hour** | **−DKK 104 per hour** |
-
-A loss – **before** petrol, cleaning products, insurance, bookkeeping, marketing and the owners' pay. In other words: the more we worked at the old price, the more we lost.
-
-Why has this not been visible before? As long as the three of us share what is left, the loss hides in the fact that we simply take home very little. But the day we put a third cleaner on the payroll, every one of their hours will cost the company money. And the plan is to hire in three months.
+Without those two rules – if we drove to one-hour jobs in Hjørring – the billable ratio would be closer to 80 %, and the figures 287 and 316. The two rules are not bureaucracy; they are DKK 18 an hour.
 
 ---
 
-## 3. What others charge in Aalborg
+## 3. Where we sit in the market
 
-We checked competitors' websites and price portals. All prices are their own, published ones.
+Competitors' own published prices, checked 7 September 2026.
 
 ### Home cleaning, hourly price incl. VAT
 
 | Company | Price | What kind of company |
 |---|---|---|
-| HappyHelper | 195 (indicative) | Platform. The cleaner is a freelancer who sets their own price; the company pays no holiday pay or pension |
+| HappyHelper | 195 (indicative) | Platform. The cleaner is a freelancer who sets their own price; no holiday pay or pension |
 | Hjælperne | 215 all-in | Platform. States itself that about DKK 150 of the 215 goes to wages |
-| **Husfeerne – before** | **265** | Employed staff, insured |
-| **Husfeerne – now** | **325** | |
 | Lindas Rengøringsfirma | 325 | Local firm, since 2021, quality guarantee |
+| **Husfeerne** | **325** | **Local firm. Employed, insured, the same two every time** |
 | AJ Polering | 337.50 (270 ex) | Local firm, broad range of services |
 | FSC Rengøring | 350 + travel fee | Only on a regular agreement at least every 2 weeks |
 | Maks Rengøring | 417.50 (334 ex) | 10–15 employees, free travel |
 
-The picture is simple. At the bottom are the **platforms** (DKK 195–215): they have no employer costs because the cleaner is not an employee. Higher up are **firms with employed staff** (DKK 325–420): they carry the same costs we do. Husfeerne is a firm with employees, insurance and proper conditions – but we priced ourselves like a platform. That was the mistake.
+The market has two layers. **Platforms** (DKK 195–215) carry no employer costs because the cleaner is not an employee. **Firms with employed staff** (DKK 325–420) carry the same costs we do. We are a firm with employees, insurance and proper conditions – and our price sits at the bottom of the layer we belong to: level with Linda, below AJ, FSC and Maks. That is exactly where a new company without reviews can sit.
 
 ### Special services
 
-| Service | Husfeerne before → now | Competitors |
+| Service | Husfeerne | Competitors |
 |---|---|---|
-| Move-out cleaning (80 m²) | from 1,495 → **from 1,995** | Average in Aalborg per Handyhand: DKK 2,560, range 2,000–4,000 |
-| Sofa, 3-seater | 499 → **649** | DK Møbelrens ≈ 869 incl. VAT · Megarens 795 (minimum 725) |
-| Car interior | 399 → **549** | Elitebilpleje 599 / 899 / 1,199 · SteamCleaner from 599 |
-| Stairwells | DKK 18 per flat | FSC DKK 20. We keep it: it gives dense routes |
-| Windows | from 129 | Market 99–200. We keep it |
+| Move-out cleaning (80 m²) | from 1,995 | Average in Aalborg per Handyhand: DKK 2,560, range 2,000–4,000 |
+| Sofa, 3-seater | 649 | DK Møbelrens ≈ 869 incl. VAT · Megarens 795 (minimum 725) |
+| Car interior | 549 | Elitebilpleje 599 / 899 / 1,199 · SteamCleaner from 599 |
+| Stairwells | DKK 18 per flat | FSC DKK 20 |
+| Windows | from 129 | Market 99–200 |
 
-Even after the increase we are **still cheaper** than almost every firm with employed staff, and cheaper than all the sofa and car specialists.
+We are cheaper than all the sofa and car specialists and at the low end on move-out cleaning. That is deliberate: special jobs are where we become known, and they still earn more per hour than regular cleaning (see section 4).
 
 ---
 
-## 4. What the new price gives us
+## 4. The sums at our price
 
-At DKK 325 incl. VAT the company keeps DKK 260. A 3-hour minimum per visit and free travel only within the municipality lift the share of billable hours to roughly 85 %:
+The customer pays DKK 325 incl. VAT. VAT (25 %) goes to the state; the company keeps **DKK 260**.
 
 | | New employee | Experienced |
 |---|---|---|
-| Cost per hour billed to the customer (229 ÷ 0.85 and 253 ÷ 0.85) | 269 | 298 |
+| Cost per hour we can invoice (85 %) | 269 | 298 |
 | Revenue ex VAT | 260 | 260 |
-| **Result** | **≈ −DKK 9** → about break-even | **≈ −DKK 38** |
+| **Result per hour** | **≈ −DKK 9** | **≈ −DKK 38** |
 
-Honestly: it is still thin. With a new employee we roughly break even on wages and only start covering the other costs through dense routes and regular customers. That is how the whole industry lives – FSC requires a regular agreement, Maks charges 334 ex VAT. So the next step is **DKK 349**, as soon as we have ten Google reviews. At 349 (279 ex) the result becomes **+DKK 10 to 45 per hour**, and the company can pay under the agreement, buy good products and grow.
+Honestly: the hourly rate roughly covers the wage of a new employee and does not cover the wage of an experienced one. What is left for the three of us after wages, petrol, products, insurance and bookkeeping is currently about zero. That is a deliberate start, not where we stay – and it is how the whole industry starts. FSC requires a regular agreement every two weeks, Maks charges 334 ex VAT, and both have had years to collect reviews.
+
+The margin has to come from four places:
+
+1. **Dense routes.** Every percentage point above 85 % billable is about DKK 3 an hour. Regular customers in the same neighbourhood on the same day is the cheapest improvement we have.
+2. **Move-out cleaning and special jobs.** A move-out clean at DKK 1,995 typically takes 5 hours – about DKK 400 an hour incl. VAT. A 3-seater sofa at DKK 649 takes about an hour and a half including travel – about DKK 430 an hour. That is why they are priced above the hourly rate, and why they must not be sold cheaper.
+3. **DKK 349 an hour once we have ten Google reviews.** At 349 (279 ex) the result becomes about +DKK 10 for a new employee and −19 for an experienced one. Only at around DKK 375 does the hourly rate alone cover an experienced employee on the agreement.
+4. **The service deduction.** It turns DKK 325 into about 240 for the customer, and 349 into about 258. The customer feels the price far less than the number suggests.
 
 ---
 
-## 5. What this means for the daily work
+## 5. Our rules in the daily work – and why
 
-- **Minimum 3 hours per visit.** We no longer take one-hour jobs. One hour at the customer's plus driving there and back is a loss. If the customer wants less, suggest less often but longer: "every two weeks for 3 hours" instead of "every week for 1.5".
-- **Travel is free within Aalborg Municipality.** Further out, we agree a fee with the customer **before** the visit, in writing (a text or e-mail is enough). Hjørring is 60 km each way – we cannot drive that for free.
-- **Fixed prices on special jobs are given up front and do not change.** We removed "lowest prices in North Jutland" from the site and wrote "fixed prices agreed up front" instead. That is what we actually promise – and it is what customers choose us for.
-- **The same two people at every customer.** It is our most important difference, and it is what people pay more for than at a platform. More on that in section 6.
+- **Minimum 3 hours per visit.** One hour at the customer's plus driving there and back is a loss. If the customer wants less, we suggest less often but longer: "every two weeks for 3 hours" instead of "every week for 1.5".
+- **Travel is free within Aalborg Municipality.** Further out, we agree a fee with the customer *before* the visit, in writing – a text or e-mail is enough. Hjørring is 60 km each way; we cannot drive that for free.
+- **Fixed prices on special jobs are given up front and do not change.** We say "fixed prices agreed up front", not "lowest prices". It is what we can keep, and it is what customers choose us for.
+- **The same two people at every customer.** It is our most important difference from everyone else, and it is what people pay more for than at a platform.
 
 ---
 
 ## 6. How we talk about price with the customer
 
-The customer who is looking for the cheapest will go to HappyHelper for 195 anyway. We do not keep her with a discount – nor should we. Our customer is the one who **lets someone into her home every two weeks** and wants peace of mind. Three things matter to her, and we have all three – the platforms do not:
+The customer who is looking for the cheapest picks HappyHelper at 195. We do not keep her with a discount – nor should we. Our customer is the one who **lets someone into her home every two weeks** and wants peace of mind. Three things matter to her, and we have all three – the platforms have none:
 
 1. **"It is always the two of us who come."** Not a "regular helper" who may leave the platform tomorrow, but two specific people the customer knows by name.
 2. **"We are employed and insured, and if we are to hold a key, we agree it in writing."** A platform covers with insurance, but does not vouch for the person.
 3. **"DKK 325 an hour is about 240 after the service deduction."** The deduction returns 26 % of the labour cost. Many customers do not know about it, or think it only applies to platforms. Say it first.
 
-If a customer compares with DKK 265 on the old site or at a friend's – tell the truth: *"We did the sums honestly. At the old price you cannot pay staff under the collective agreement. We chose to pay properly rather than work at people's expense."* That is not an apology – it is exactly what sets us apart.
+If a customer says a platform is cheaper, tell the truth: *"Yes. They do not pay their helpers holiday pay or pension. We do. That is why it is the same two of us who come to you every time."* That is not an apology – it is exactly what sets us apart.
 
 ---
 

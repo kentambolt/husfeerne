@@ -366,3 +366,8 @@ footer a:hover{color:var(--blush)}
 .side-foto img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center 35%;border-radius:var(--radius);box-shadow:var(--shadow)}
 .side-foto figcaption{font-size:.82rem;color:var(--ink-soft);margin-top:10px}
 @media(max-width:960px){ .side-foto{max-width:440px;margin:0 auto} }
+
+/* to fotos side om side i intro-kolonnen */
+.side-foto.duo{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:start}
+.side-foto.duo img{aspect-ratio:3/4}
+.side-foto.duo figcaption{grid-column:1/-1}
