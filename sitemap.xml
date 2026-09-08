@@ -2,56 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://husfeerne.dk/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://husfeerne.dk/flytterengoering-aalborg.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://husfeerne.dk/privat-rengoering-aalborg.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://husfeerne.dk/erhvervsrengoering-aalborg.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
-    <loc>https://husfeerne.dk/vinduespudsning-aalborg.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://husfeerne.dk/flytterengoering-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://husfeerne.dk/hovedrengoering-aalborg.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/vinduespudsning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://husfeerne.dk/trappevask-aalborg.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://husfeerne.dk/privatlivspolitik.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://husfeerne.dk/handelsbetingelser.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
+    <lastmod>2026-09-08</lastmod>
   </url>
 </urlset>

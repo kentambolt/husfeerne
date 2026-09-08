@@ -22,7 +22,7 @@ Følg planen fase for fase. Sæt kryds, når et punkt er klaret. Fase 0–1 er f
 - [ ] **Indsæt CVR-nummeret** tre steder: `index.html` (kontaktsektion + footer), `privatlivspolitik.html` og `handelsbetingelser.html`. Placeholderteksten er fjernet fra sitet, så der ikke står noget ufærdigt offentligt – søg i stedet efter `NNNNNNNN`, som markerer de fire steder. I `index.html` ligger CVR-feltet i kontaktkortet som en HTML-kommentar, der bare skal åbnes igen. CVR på hjemmesiden er et lovkrav (e-handelsloven).
 - [ ] **Tjek telefonnummer og adresse** på sitet. Nummeret 60 60 33 60 og Akvavitvej 7 er overført fra RenGlad – skal Husfeerne have sit eget nummer, skal det rettes i `index.html` (kontaktsektion, footer, structured data, fejlbeskederne i JavaScript) samt i begge juridiske sider.
 - [ ] **Få en advokat til at gennemlæse** handelsbetingelser og privatlivspolitik. De er solide udgangspunkter, ikke juridisk rådgivning – og privatlivspolitikken beskriver nu overførsel af persondata til USA, hvilket er værd at få bekræftet.
-- [x] **Egne fotos på plads.** Ni billeder af os i arbejde bruges på forsiden og undersiderne: teamfoto med logo på trøjerne (hero og "Mød holdet"), puder ("Vores tilgang"), sofarens (forsidens kort), lampe (hovedrengøring), støvsugning og køkken (privat rengøring), ovn og bad (flytterengøring), gulvvask (erhverv). De komprimerede udgaver hedder `foto-*.jpg` og `husfeerne-team.jpg`; originalerne ligger i `raw_photos/` og udgives ikke.
+- [x] **Egne fotos på plads.** Tolv billeder af os i arbejde bruges på forsiden og undersiderne: teamfoto med logo på trøjerne (hero og "Mød holdet"), puder ("Vores tilgang"), sofarens, trappevask, vinduespudsning og bilrengøring (forsidens kort), lampe (hovedrengøring), støvsugning og køkken (privat rengøring), ovn og bad (flytterengøring), gulvvask (erhverv), trappevask og vinduer på deres egne sider. De komprimerede udgaver hedder `foto-*.jpg` og `husfeerne-team.jpg` med `-560`/`-800`-varianter til mobil; originalerne ligger i `raw_photos/` og udgives ikke. Ingen stock-fotos er tilbage.
 - [x] **Logo på plads.** Sitet bruger `husfeerne-logo.png` – en web-optimeret udgave på 440 px bredde (46 KB), som er rigelig til de 148×66 px logoet vises i. Den højopløste original ligger som `husfeerne-logo-print.png` (1880 px, 479 KB) til tryk, visitkort og bilfolie; den indlæses ikke af hjemmesiden. Filen `husfeerne-logo.jpg` bruges ikke længere og kan slettes.
 
 > **Om prisen:** 325 kr./time inkl. moms (260 kr. ex), minimum 3 timer pr. besøg og gratis kørsel kun i Aalborg Kommune. Timeprisen dækker omtrent lønnen til en nyansat på overenskomst; marginen kommer fra tætte ruter, flytte- og specialopgaver og fra 349 kr., når de første 10 anmeldelser er i hus. Hele regnestykket står i [Sådan er vores priser](priser.html) og markedsbilledet i [konkurrentanalysen](analyse.html) – begge på dansk, engelsk og russisk. Lad revisoren regne pension og øvrige arbejdsgiverbidrag præcist.
@@ -59,6 +59,20 @@ ved – det er formuleringer, en kunde kan holde jer fast på.
 > og skifte tekst, `<title>`, `description`, `canonical` og JSON-LD ud – og huske at føje den til
 > `sitemap.xml` og footeren. Filen `.gitattributes` sikrer, at git ikke længere melder hele filer som
 > ændrede, når en Windows-editor gemmer med CRLF.
+
+## Fase 0c · SEO-opsætningen, som den er nu
+
+Sitet er sat op til at rangere på rengøring af private hjem og kontorer i Aalborg. Det ligger fast i dag:
+
+- **Titler og beskrivelser** er under 60/160 tegn og bærer de søgeord, folk faktisk bruger: forsiden "Rengøring Aalborg – privat og erhverv", privat-siden "Privat rengøringshjælp i Aalborg", erhvervssiden "Erhvervsrengøring og kontorrengøring i Aalborg". Ordene *rengøringshjælp*, *kontorrengøring* og *rengøringsfirma* står nu i overskrifter og brødtekst – de manglede helt før.
+- **Aalborg-kvarterer** nævnes naturligt i dækningsafsnit, FAQ og prisbokse: Hasseris, Vejgaard, Gug, Kærby, Skalborg, Vestbyen, Aalborg Øst, Nørresundby, Svenstrup, Klarup, Vodskov, Vadum, Nibe. Ingen kvarter-sider – det ville Google straffe som dørsider.
+- **Structured data**: virksomheden har ét `@id` (`https://husfeerne.dk/#organization`) på alle sider, så Google ser én virksomhed og ikke syv; forsidens ydelseskatalog peger på undersiderne; FAQPage-schemaet genereres fra den synlige FAQ og matcher den ordret (det er et krav). Koordinaterne i schemaet er sat til Akvavitvej (57.0547, 9.9085) – **tjek dem mod Google Maps**, de er beregnet, ikke opslået.
+- **Teknisk**: `<main>`-landmark, brødkrummer, skip-link og aria på menuen; `404.html` i sitets design; `sitemap.xml` med kun de syv indekserbare sider; rigtige favicon-filer (`favicon.svg`, `favicon.ico`, `favicon-48.png`, `apple-touch-icon.png`) så Google viser bladet i søgeresultatet; kanoniske links til `/` i stedet for `index.html`; interne links med "… i Aalborg" som ankertekst; telefon og mail klikbare i kontaktkortet.
+- **Hastighed**: hero-fotoet preloades med `fetchpriority="high"`; alle fotos har `srcset` i 560/800 (og 840/1040 for teamfotoet), så mobil henter en fjerdedel af dataene; app.js loader med `defer`; Google Fonts-URL'en henter kun de vægte, der bruges.
+- **Delebilleder**: `husfeerne-og.jpg` (1200×628) bruges ved deling på Facebook/LinkedIn; trappevask og vinduespudsning har egne beskårne udgaver.
+- **Ikke gjort, med vilje**: hreflang (kræver separate URL'er pr. sprog), anmeldelses-schema (vi har ingen anmeldelser endnu – det må aldrig opfindes), selvhostede fonte (kræver download), omdøbning af `foto-*.jpg` til søgeordsnavne (lille gevinst, meget omrokering).
+
+> **To udsagn, I skal kunne stå ved:** FAQ'en siger nu, at Husfeerne er et rengøringsfirma med *egne, ansatte* medarbejdere – ikke en platform. Og de tre gamle stock-fotos (trappevask, vinduer, bil) er slettet, fordi de viste andre firmaers logoer; egne fotos er sat ind i stedet.
 
 ## Fase 1 · Bliv synlig, hvor kunderne søger (uge 1–2)
 
