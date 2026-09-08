@@ -1,26 +1,48 @@
 /* Husfeerne – fælles script for alle sider.
    Sprogvælger, formularer og mobilmenu. Alle opslag er null-sikrede,
-   så den samme fil kan bruges på forsiden og på servicesiderne,
-   uanset om siden har jobformular og job-sektion. */
+   så den samme fil kan bruges på forsiden, på servicesiderne og på de
+   engelske, tyske og ukrainske udgaver under /en/, /de/ og /uk/. */
 
 /* ---------- Sprogvalg: dansk, engelsk, tysk, ukrainsk ---------- */
 const LANGS = {
-  da: {name:'Dansk',      flag:'#f-da', htmlLang:'da'},
-  en: {name:'English',    flag:'#f-en', htmlLang:'en'},
-  de: {name:'Deutsch',    flag:'#f-de', htmlLang:'de'},
-  uk: {name:'Українська', flag:'#f-uk', htmlLang:'uk'}
+  da: {name:'Dansk',      flag:'#f-da'},
+  en: {name:'English',    flag:'#f-en'},
+  de: {name:'Deutsch',    flag:'#f-de'},
+  uk: {name:'Українська', flag:'#f-uk'}
 };
 const LANG_KEY = 'husfeerne-lang';
-let lang = 'da';
+/* Sidens eget sprog står i <html lang>. Forsiden og servicesiderne findes som
+   rigtige sider pr. sprog (bygget af build_lang.py) og peger på hinanden med
+   <link rel="alternate" hreflang>. Sider uden alternativer (404, juridiske sider)
+   oversættes i browseren via data-en/de/uk som før. */
+const PAGE_LANG = (document.documentElement.lang || 'da').slice(0,2);
+let lang = LANGS[PAGE_LANG] ? PAGE_LANG : 'da';
 
 const langWrap = document.getElementById('langWrap');
 const langBtn  = document.getElementById('langBtn');
 const langMenu = document.getElementById('langMenu');
 
+function alternateUrl(code){
+  const link = document.querySelector('link[rel="alternate"][hreflang="' + code + '"]');
+  if(!link) return null;
+  /* Kun stien bruges, saa skiftet ogsaa virker paa en testserver eller et preview-domaene. */
+  const u = new URL(link.href);
+  return u.pathname + u.search;
+}
+
 function setLang(code){
   if(!LANGS[code]) code = 'da';
+  try{ localStorage.setItem(LANG_KEY, code); }catch(e){}
+
+  /* Findes siden på det valgte sprog, går vi derhen (ankeret følger med). */
+  const url = alternateUrl(code);
+  if(url && code !== lang){
+    location.href = url + location.hash;
+    return;
+  }
+
   lang = code;
-  document.documentElement.lang = LANGS[code].htmlLang;
+  document.documentElement.lang = code;
 
   /* Første gang gemmes den danske originaltekst i data-da, så vi altid kan skifte tilbage. */
   document.querySelectorAll('[data-en]').forEach(el=>{
@@ -34,47 +56,53 @@ function setLang(code){
   });
 
   /* Knappen i toppen */
-  document.querySelector('#langFlag use').setAttribute('href', LANGS[code].flag);
-  document.getElementById('langName').textContent = LANGS[code].name;
-  langMenu.querySelectorAll('button').forEach(b=>
+  const flag = document.querySelector('#langFlag use');
+  if(flag) flag.setAttribute('href', LANGS[code].flag);
+  const name = document.getElementById('langName');
+  if(name) name.textContent = LANGS[code].name;
+  if(langMenu) langMenu.querySelectorAll('button').forEach(b=>
     b.setAttribute('aria-selected', b.dataset.lang === code ? 'true' : 'false'));
 
   /* Sproget følger med i formularerne, så vi svarer på det rigtige sprog */
   opdaterSprogfelter();
 
-  /* Servicesiderne er kun skrevet på dansk. Har den besøgende valgt et andet
-     sprog, forklarer vi det i deres eget sprog i stedet for at lade siden
-     stå halvt oversat. Notitsen findes ikke på forsiden. */
-  const kunDansk = document.getElementById('kunDansk');
-  if(kunDansk) kunDansk.hidden = (code === 'da');
-
-  try{ localStorage.setItem(LANG_KEY, code); }catch(e){}
   closeLangMenu();
   const nav = document.getElementById('navLinks');
   if(nav) nav.classList.remove('open');
 }
 function openLangMenu(){
+  if(!langMenu) return;
   langMenu.classList.add('open');
   langBtn.setAttribute('aria-expanded','true');
 }
 function closeLangMenu(){
+  if(!langMenu) return;
   langMenu.classList.remove('open');
   langBtn.setAttribute('aria-expanded','false');
 }
-langBtn.addEventListener('click', e=>{
-  e.stopPropagation();
-  langMenu.classList.contains('open') ? closeLangMenu() : openLangMenu();
-});
-langMenu.querySelectorAll('button').forEach(b=>
-  b.addEventListener('click', ()=> setLang(b.dataset.lang)));
-document.addEventListener('click', e=>{ if(!langWrap.contains(e.target)) closeLangMenu(); });
-document.addEventListener('keydown', e=>{ if(e.key === 'Escape') closeLangMenu(); });
+if(langBtn && langMenu){
+  langBtn.addEventListener('click', e=>{
+    e.stopPropagation();
+    langMenu.classList.contains('open') ? closeLangMenu() : openLangMenu();
+  });
+  langMenu.querySelectorAll('button').forEach(b=>
+    b.addEventListener('click', ()=> setLang(b.dataset.lang)));
+  document.addEventListener('click', e=>{ if(!langWrap.contains(e.target)) closeLangMenu(); });
+  document.addEventListener('keydown', e=>{ if(e.key === 'Escape') closeLangMenu(); });
+}
 
-/* Dansk er standard, så Google altid indekserer den danske udgave.
-   Kun et aktivt valg huskes – og kun i den besøgendes egen browser. */
+/* Har den besøgende tidligere valgt et andet sprog og lander på en dansk side
+   (fx fra Google), sendes de til siden på deres sprog; findes den ikke, oversættes
+   det, der kan oversættes i browseren. Lander de direkte på en engelsk, tysk eller
+   ukrainsk side, respekteres den adresse, de har fået. Google har intet gemt valg
+   og ser derfor altid siden på dens eget sprog. */
 try{
   const saved = localStorage.getItem(LANG_KEY);
-  if(saved && LANGS[saved] && saved !== 'da') setLang(saved);
+  if(saved && LANGS[saved] && saved !== lang && lang === 'da'){
+    const url = alternateUrl(saved);
+    if(url) location.replace(url + location.hash);
+    else if(document.querySelector('[data-en]')) setLang(saved);
+  }
 }catch(e){}
 
 /* ---------- Formularer: sendes til Formspree (sitet er statisk på GitHub Pages) ---------- */
@@ -166,7 +194,7 @@ hookForm('jobForm','job','jmail','jphone');
 opdaterSprogfelter();
 
 /* ---------- Job-sektion: skjult indtil man klikker på "Job" ---------- */
-/* Findes kun på forsiden. Fra servicesiderne peger menupunktet paa index.html#job. */
+/* Findes kun på forsiden. Fra servicesiderne peger menupunktet på /#job. */
 const jobSektion = document.getElementById('job');
 if(jobSektion){
   document.querySelectorAll('a[href="#job"]').forEach(a=>

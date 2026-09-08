@@ -40,7 +40,10 @@ jobs:
           --exclude '*.py' \
           --exclude '.gitattributes' \
           --exclude 'husfeerne-logo-print.png' \
-          --exclude 'husfeerne-logo.jpg'
+          --exclude 'husfeerne-logo.jpg' \
+          --exclude 'i18n' \
+          --exclude '__pycache__' \
+          --exclude 'raw_photos'
         echo "Udgives:"; ls -la _site
 
     - name: ⬆️ Upload

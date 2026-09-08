@@ -1,0 +1,277 @@
+{
+ "Vinduespudsning Aalborg – fra 129 kr. pr. gang | Husfeerne": {
+  "en": "Window cleaning Aalborg – from DKK 129 per visit | Husfeerne",
+  "de": "Fensterreinigung Aalborg – ab 129 DKK pro Besuch | Husfeerne",
+  "uk": "Миття вікон Ольборг — від 129 DKK за візит | Husfeerne"
+ },
+ "Vinduespudsning i Aalborg – <span>fra 129 kr.</span>": {
+  "en": "Window cleaning in Aalborg – <span>from DKK 129</span>",
+  "de": "Fensterreinigung in Aalborg – <span>ab 129 DKK</span>",
+  "uk": "Миття вікон в Ольборзі — <span>від 129 DKK</span>"
+ },
+ "Vi pudser med rentvandsanlæg: afioniseret vand ført op gennem en teleskopstang. Det efterlader ingen sæberester og ingen striber, og vi kan nå de øverste vinduer uden at stille en stige op mod din facade.": {
+  "en": "We clean with a pure-water system: deionised water fed up through a telescopic pole. It leaves no soap residue and no streaks, and we can reach the top windows without putting a ladder up against your facade.",
+  "de": "Wir reinigen mit Reinwasseranlage: entionisiertes Wasser, das durch eine Teleskopstange nach oben geführt wird. Das hinterlässt keine Seifenreste und keine Streifen, und wir erreichen die obersten Fenster, ohne eine Leiter an Ihre Fassade zu stellen.",
+  "uk": "Ми миємо системою очищеної води: деіонізована вода подається вгору телескопічною штангою. Вона не залишає ні залишків мила, ні розводів, а ми дістаємося до найвищих вікон, не приставляючи драбину до вашого фасаду."
+ },
+ "Fast pris pr. gang · lejlighed fra 129 kr. · hus fra 149 kr.": {
+  "en": "Fixed price per visit · flat from DKK 129 · house from DKK 149",
+  "de": "Festpreis pro Besuch · Wohnung ab 129 DKK · Haus ab 149 DKK",
+  "uk": "Фіксована ціна за візит · квартира від 129 DKK · будинок від 149 DKK"
+ },
+ "Lejlighed": {
+  "en": "Flat",
+  "de": "Wohnung",
+  "uk": "Квартира"
+ },
+ "Fra 129 kr.<small>Pr. gang, udvendigt. Du får en fast pris, når vi kender antallet af vinduer.</small>": {
+  "en": "From DKK 129<small>Per visit, exterior. You get a fixed price once we know the number of windows.</small>",
+  "de": "Ab 129 DKK<small>Pro Besuch, außen. Sie erhalten einen Festpreis, sobald wir die Anzahl der Fenster kennen.</small>",
+  "uk": "Від 129 DKK<small>За візит, зовні. Ви отримуєте фіксовану ціну, щойно ми знаємо кількість вікон.</small>"
+ },
+ "Hus": {
+  "en": "House",
+  "de": "Haus",
+  "uk": "Будинок"
+ },
+ "Fra 149 kr.<small>Pr. gang, udvendigt. Indvendig pudsning og karme kan lægges til.</small>": {
+  "en": "From DKK 149<small>Per visit, exterior. Interior cleaning and sills can be added.</small>",
+  "de": "Ab 149 DKK<small>Pro Besuch, außen. Innenreinigung und Fensterbänke können hinzugebucht werden.</small>",
+  "uk": "Від 149 DKK<small>За візит, зовні. Миття всередині та підвіконня можна додати.</small>"
+ },
+ "Interval": {
+  "en": "Interval",
+  "de": "Intervall",
+  "uk": "Інтервал"
+ },
+ "Du vælger<small>Hver 4., 8. eller 12. uge – eller en enkelt gang, hvis det er det, du har brug for.</small>": {
+  "en": "You choose<small>Every 4, 8 or 12 weeks – or a single visit, if that is what you need.</small>",
+  "de": "Sie wählen<small>Alle 4, 8 oder 12 Wochen – oder einmalig, wenn Sie genau das brauchen.</small>",
+  "uk": "Ви обираєте<small>Кожні 4, 8 або 12 тижнів — або одноразово, якщо саме це вам потрібно.</small>"
+ },
+ "Metoden": {
+  "en": "The method",
+  "de": "Die Methode",
+  "uk": "Метод"
+ },
+ "Derfor rentvandsanlæg": {
+  "en": "Why a pure-water system",
+  "de": "Darum Reinwasseranlage",
+  "uk": "Чому система очищеної води"
+ },
+ "Det er ikke bare en spand og en klud. Metoden er grunden til, at resultatet holder.": {
+  "en": "It is not just a bucket and a cloth. The method is the reason the result lasts.",
+  "de": "Es ist nicht nur ein Eimer und ein Tuch. Die Methode ist der Grund, warum das Ergebnis hält.",
+  "uk": "Це не просто відро й ганчірка. Саме метод — причина того, що результат тримається."
+ },
+ "Rentvandsanlæg og teleskopstang – stribefri vinduer uden sæberester, også højt oppe.": {
+  "en": "Pure-water system and telescopic pole – streak-free windows with no soap residue, even high up.",
+  "de": "Reinwasseranlage und Teleskopstange – streifenfreie Fenster ohne Seifenreste, auch weit oben.",
+  "uk": "Система очищеної води й телескопічна штанга — вікна без розводів і залишків мила, навіть високо вгорі."
+ },
+ "Ingen sæberester": {
+  "en": "No soap residue",
+  "de": "Keine Seifenreste",
+  "uk": "Без залишків мила"
+ },
+ "Vandet bliver afioniseret, så alle mineraler og salte er filtreret ud. Når det tørrer, efterlader det ingenting – hverken kalkpletter eller sæbestriber.": {
+  "en": "The water is deionised, so all minerals and salts are filtered out. When it dries, it leaves nothing behind – neither limescale spots nor soap streaks.",
+  "de": "Das Wasser wird entionisiert, sodass alle Mineralien und Salze herausgefiltert sind. Wenn es trocknet, hinterlässt es nichts – weder Kalkflecken noch Seifenstreifen.",
+  "uk": "Воду деіонізують, тож усі мінерали й солі відфільтровано. Висихаючи, вона не залишає нічого — ні плям від вапна, ні мильних розводів."
+ },
+ "Ingen stiger mod facaden": {
+  "en": "No ladders against the facade",
+  "de": "Keine Leitern an der Fassade",
+  "uk": "Жодних драбин біля фасаду"
+ },
+ "Teleskopstangen når vinduer i flere etager fra jorden. Det er hurtigere, det er sikrere for os, og der bliver ikke sat mærker på din facade eller dine planter.": {
+  "en": "The telescopic pole reaches windows several storeys up from the ground. It is faster, it is safer for us, and it leaves no marks on your facade or your plants.",
+  "de": "Die Teleskopstange erreicht Fenster über mehrere Etagen vom Boden aus. Das ist schneller, es ist sicherer für uns, und es bleiben keine Spuren an Ihrer Fassade oder Ihren Pflanzen.",
+  "uk": "Телескопічна штанга дістає до вікон на кількох поверхах із землі. Це швидше, це безпечніше для нас, і на вашому фасаді чи рослинах не залишається слідів."
+ },
+ "Karme og rammer med": {
+  "en": "Sills and frames included",
+  "de": "Fensterbänke und Rahmen inklusive",
+  "uk": "Підвіконня та рами включено"
+ },
+ "Vandet løber ned i karmen og tager snavset med. Vi tørrer karme og rammer efter, så det ikke løber ned på ruden igen næste gang, det regner.": {
+  "en": "The water runs down onto the sill and takes the dirt with it. We wipe the sills and frames afterwards, so it does not run back down the pane the next time it rains.",
+  "de": "Das Wasser läuft auf die Fensterbank und nimmt den Schmutz mit. Wir wischen Fensterbänke und Rahmen nach, damit er beim nächsten Regen nicht wieder über die Scheibe läuft.",
+  "uk": "Вода стікає на підвіконня й забирає бруд із собою. Ми витираємо підвіконня та рами після миття, щоб під час наступного дощу бруд знову не стікав на шибку."
+ },
+ "Hvad du får for den faste pris": {
+  "en": "What you get for the fixed price",
+  "de": "Was Sie für den Festpreis bekommen",
+  "uk": "Що ви отримуєте за фіксовану ціну"
+ },
+ "Udvendigt (standard)": {
+  "en": "Exterior (standard)",
+  "de": "Außen (Standard)",
+  "uk": "Зовні (стандарт)"
+ },
+ "Alle ruder pudset med rentvandsanlæg": {
+  "en": "All panes cleaned with the pure-water system",
+  "de": "Alle Scheiben mit Reinwasseranlage gereinigt",
+  "uk": "Усі шибки помиті системою очищеної води"
+ },
+ "Karme og rammer aftørret": {
+  "en": "Sills and frames wiped",
+  "de": "Fensterbänke und Rahmen abgewischt",
+  "uk": "Підвіконня та рами протерті"
+ },
+ "Vinduer i flere etager fra jorden": {
+  "en": "Windows on several storeys from the ground",
+  "de": "Fenster über mehrere Etagen vom Boden aus",
+  "uk": "Вікна на кількох поверхах із землі"
+ },
+ "Døre og glaspartier": {
+  "en": "Doors and glass sections",
+  "de": "Türen und Glaselemente",
+  "uk": "Двері та скляні секції"
+ },
+ "Fast pris pr. gang, aftalt på forhånd": {
+  "en": "Fixed price per visit, agreed up front",
+  "de": "Festpreis pro Besuch, vorab vereinbart",
+  "uk": "Фіксована ціна за візит, узгоджена заздалегідь"
+ },
+ "Indvendigt (tilkøb)": {
+  "en": "Interior (add-on)",
+  "de": "Innen (Zusatzleistung)",
+  "uk": "Всередині (додаткова послуга)"
+ },
+ "Ruder indvendigt": {
+  "en": "Panes inside",
+  "de": "Scheiben innen",
+  "uk": "Шибки всередині"
+ },
+ "Vindueskarme aftørret": {
+  "en": "Window sills wiped",
+  "de": "Fensterbänke abgewischt",
+  "uk": "Підвіконня протерті"
+ },
+ "Ovenlys og glasdøre": {
+  "en": "Skylights and glass doors",
+  "de": "Dachfenster und Glastüren",
+  "uk": "Мансардні вікна та скляні двері"
+ },
+ "Kan lægges fast oveni det udvendige": {
+  "en": "Can be added permanently on top of the exterior",
+  "de": "Kann fest zur Außenreinigung hinzugebucht werden",
+  "uk": "Можна постійно додати до зовнішнього миття"
+ },
+ "Også til erhverv": {
+  "en": "Also for businesses",
+  "de": "Auch für Gewerbe",
+  "uk": "Також для бізнесу"
+ },
+ "Butiksvinduer og glasfacader": {
+  "en": "Shop windows and glass facades",
+  "de": "Schaufenster und Glasfassaden",
+  "uk": "Вітрини та скляні фасади"
+ },
+ "Kontorer og mødelokaler": {
+  "en": "Offices and meeting rooms",
+  "de": "Büros und Besprechungsräume",
+  "uk": "Офіси та переговорні кімнати"
+ },
+ "Vinduer i opgange og fællesarealer": {
+  "en": "Windows in stairwells and shared areas",
+  "de": "Fenster in Treppenhäusern und Gemeinschaftsflächen",
+  "uk": "Вікна в під’їздах і спільних зонах"
+ },
+ "Klinikker og saloner": {
+  "en": "Clinics and salons",
+  "de": "Praxen und Salons",
+  "uk": "Клініки та салони"
+ },
+ "Fast interval eller efter behov": {
+  "en": "Fixed interval or as needed",
+  "de": "Festes Intervall oder nach Bedarf",
+  "uk": "Фіксований інтервал або за потреби"
+ },
+ "Vinduespudsning afregnes til en fast pris pr. gang – vejledende fra 129 kr. for en lejlighed og fra 149 kr. for et hus, udvendigt. Den præcise pris afhænger af antallet af vinduer, og du får den, før vi går i gang. Indvendig pudsning er et tilkøb.": {
+  "en": "Window cleaning is charged at a fixed price per visit – as a guide from DKK 129 for a flat and from DKK 149 for a house, exterior. The exact price depends on the number of windows, and you get it before we start. Interior cleaning is an add-on.",
+  "de": "Fensterreinigung wird zum Festpreis pro Besuch abgerechnet – als Richtwert ab 129 DKK für eine Wohnung und ab 149 DKK für ein Haus, außen. Der genaue Preis hängt von der Anzahl der Fenster ab, und Sie erhalten ihn, bevor wir beginnen. Innenreinigung ist eine Zusatzleistung.",
+  "uk": "Миття вікон оплачується за фіксованою ціною за візит — орієнтовно від 129 DKK за квартиру та від 149 DKK за будинок, зовні. Точна ціна залежить від кількості вікон, і ви отримуєте її до початку робіт. Миття всередині — додаткова послуга."
+ },
+ "Kørsel er gratis i hele Aalborg Kommune – parcelhuse i Gug, Skalborg, Svenstrup, Frejlev, Klarup og Vodskov, villaer i Hasseris og lejligheder i midtbyen, Vestbyen og Nørresundby; uden for kommunen aftaler vi et kørselstillæg på forhånd. Aftaler du et fast interval, ligger prisen fast fra gang til gang.": {
+  "en": "Travel is free throughout Aalborg Municipality – detached houses in Gug, Skalborg, Svenstrup, Frejlev, Klarup and Vodskov, villas in Hasseris and flats in the city centre, Vestbyen and Nørresundby; outside the municipality we agree a travel fee up front. If you agree a fixed interval, the price stays the same from visit to visit.",
+  "de": "Die Anfahrt ist in der gesamten Kommune Aalborg kostenlos – Einfamilienhäuser in Gug, Skalborg, Svenstrup, Frejlev, Klarup und Vodskov, Villen in Hasseris und Wohnungen im Zentrum, in Vestbyen und Nørresundby; außerhalb der Kommune vereinbaren wir vorab einen Fahrtkostenzuschlag. Vereinbaren Sie ein festes Intervall, bleibt der Preis von Besuch zu Besuch gleich.",
+  "uk": "Дорога безкоштовна в усій комуні Ольборг — приватні будинки в Gug, Skalborg, Svenstrup, Frejlev, Klarup і Vodskov, вілли в Hasseris та квартири в центрі, у Vestbyen і Nørresundby; за межами комуни ми заздалегідь узгоджуємо доплату за дорогу. Якщо ви домовляєтеся про фіксований інтервал, ціна залишається незмінною від візиту до візиту."
+ },
+ "Spørgsmål om vinduespudsning": {
+  "en": "Questions about window cleaning",
+  "de": "Fragen zur Fensterreinigung",
+  "uk": "Питання про миття вікон"
+ },
+ "Hvad koster vinduespudsning i Aalborg?": {
+  "en": "What does window cleaning cost in Aalborg?",
+  "de": "Was kostet Fensterreinigung in Aalborg?",
+  "uk": "Скільки коштує миття вікон в Ольборзі?"
+ },
+ "En lejlighed starter ved 129 kr. pr. gang og et hus ved 149 kr. pr. gang, udvendigt. Prisen afhænger af antallet af vinduer, og du får en fast pris, før vi går i gang. Indvendig pudsning kan lægges til.": {
+  "en": "A flat starts at DKK 129 per visit and a house at DKK 149 per visit, exterior. The price depends on the number of windows, and you get a fixed price before we start. Interior cleaning can be added.",
+  "de": "Eine Wohnung beginnt bei 129 DKK pro Besuch und ein Haus bei 149 DKK pro Besuch, außen. Der Preis hängt von der Anzahl der Fenster ab, und Sie erhalten einen Festpreis, bevor wir beginnen. Innenreinigung kann hinzugebucht werden.",
+  "uk": "Квартира — від 129 DKK за візит, будинок — від 149 DKK за візит, зовні. Ціна залежить від кількості вікон, і ви отримуєте фіксовану ціну до початку робіт. Миття всередині можна додати."
+ },
+ "Hvor ofte bør vinduer pudses?": {
+  "en": "How often should windows be cleaned?",
+  "de": "Wie oft sollten Fenster gereinigt werden?",
+  "uk": "Як часто слід мити вікна?"
+ },
+ "De fleste vælger hver 8. uge. Bor du tæt på en trafikeret vej, ved kysten eller under træer, giver hver 4. uge et mærkbart bedre resultat. Du vælger selv intervallet, og du kan ændre det undervejs.": {
+  "en": "Most people choose every 8 weeks. If you live close to a busy road, by the coast or under trees, every 4 weeks gives a noticeably better result. You choose the interval yourself, and you can change it along the way.",
+  "de": "Die meisten wählen alle 8 Wochen. Wohnen Sie nah an einer stark befahrenen Straße, an der Küste oder unter Bäumen, bringt alle 4 Wochen ein spürbar besseres Ergebnis. Sie wählen das Intervall selbst und können es zwischendurch ändern.",
+  "uk": "Більшість обирає кожні 8 тижнів. Якщо ви живете біля жвавої дороги, на узбережжі або під деревами, кожні 4 тижні дають помітно кращий результат. Ви самі обираєте інтервал і можете змінити його згодом."
+ },
+ "Hvad er et rentvandsanlæg?": {
+  "en": "What is a pure-water system?",
+  "de": "Was ist eine Reinwasseranlage?",
+  "uk": "Що таке система очищеної води?"
+ },
+ "Vandet bliver filtreret, så alle mineraler og salte er ude, og føres op gennem en teleskopstang med en blød børste. Fordi vandet er helt rent, tørrer det uden at efterlade pletter eller striber – der skal ikke tørres efter med klud.": {
+  "en": "The water is filtered so all minerals and salts are removed, and fed up through a telescopic pole with a soft brush. Because the water is completely pure, it dries without leaving spots or streaks – there is no need to wipe afterwards with a cloth.",
+  "de": "Das Wasser wird gefiltert, sodass alle Mineralien und Salze entfernt sind, und durch eine Teleskopstange mit einer weichen Bürste nach oben geführt. Weil das Wasser völlig rein ist, trocknet es, ohne Flecken oder Streifen zu hinterlassen – es muss nicht mit einem Tuch nachgewischt werden.",
+  "uk": "Воду фільтрують, щоб видалити всі мінерали й солі, і подають угору телескопічною штангою з м’якою щіткою. Оскільки вода абсолютно чиста, вона висихає, не залишаючи плям чи розводів — витирати ганчіркою після цього не потрібно."
+ },
+ "Kan I nå vinduer på første og anden sal?": {
+  "en": "Can you reach windows on the first and second floor?",
+  "de": "Erreichen Sie Fenster im ersten und zweiten Stock?",
+  "uk": "Чи дістаєте ви до вікон на другому й третьому поверхах?"
+ },
+ "Ja. Teleskopstangen når flere etager fra jorden, så vi behøver ikke stille stiger op mod facaden. Er der vinduer, vi ikke kan komme til, siger vi det, når vi giver prisen – ikke bagefter.": {
+  "en": "Yes. The telescopic pole reaches several storeys from the ground, so we do not need to put ladders up against the facade. If there are windows we cannot get to, we tell you when we give you the price – not afterwards.",
+  "de": "Ja. Die Teleskopstange erreicht mehrere Etagen vom Boden aus, sodass wir keine Leitern an die Fassade stellen müssen. Gibt es Fenster, die wir nicht erreichen können, sagen wir es Ihnen, wenn wir den Preis nennen – nicht danach.",
+  "uk": "Так. Телескопічна штанга дістає до кількох поверхів із землі, тож нам не потрібно приставляти драбини до фасаду. Якщо є вікна, до яких ми не можемо дістатися, ми кажемо про це, коли називаємо ціну, — а не потім."
+ },
+ "Pudser I også indvendigt?": {
+  "en": "Do you also clean inside?",
+  "de": "Reinigen Sie auch innen?",
+  "uk": "Чи миєте ви також всередині?"
+ },
+ "Ja, indvendig pudsning er et tilkøb, og mange lægger det fast oveni det udvendige et par gange om året. Karme, spejle og glasdøre kan tages med.": {
+  "en": "Yes, interior cleaning is an add-on, and many people add it permanently on top of the exterior a couple of times a year. Sills, mirrors and glass doors can be included.",
+  "de": "Ja, Innenreinigung ist eine Zusatzleistung, und viele buchen sie ein paar Mal im Jahr fest zur Außenreinigung hinzu. Fensterbänke, Spiegel und Glastüren können einbezogen werden.",
+  "uk": "Так, миття всередині — додаткова послуга, і багато хто постійно додає її до зовнішнього миття кілька разів на рік. Підвіконня, дзеркала та скляні двері також можна включити."
+ },
+ "Hvad hvis det regner på den aftalte dag?": {
+  "en": "What if it rains on the agreed day?",
+  "de": "Was ist, wenn es am vereinbarten Tag regnet?",
+  "uk": "Що, якщо в узгоджений день іде дощ?"
+ },
+ "Regn skader ikke resultatet – ruder pudset med rent vand bliver ikke plettede af regn. Ved kraftig blæst eller frost flytter vi besøget og giver dig besked.": {
+  "en": "Rain does not harm the result – panes cleaned with pure water are not spotted by rain. In strong wind or frost we move the visit and let you know.",
+  "de": "Regen schadet dem Ergebnis nicht – mit Reinwasser gereinigte Scheiben bekommen durch Regen keine Flecken. Bei starkem Wind oder Frost verschieben wir den Besuch und informieren Sie.",
+  "uk": "Дощ не шкодить результату — шибки, помиті чистою водою, від дощу не вкриваються плямами. За сильного вітру чи морозу ми переносимо візит і повідомляємо вам."
+ },
+ "Vinduespudsning i Aalborg fra 129 kr. for en lejlighed og 149 kr. for et hus. Rentvandsanlæg uden sæberester, fast pris pr. gang og fast interval.": {
+  "en": "Window cleaning in Aalborg from DKK 129 for a flat and DKK 149 for a house. Pure-water system with no soap residue, fixed price per visit and a fixed interval.",
+  "de": "Fensterreinigung in Aalborg ab 129 DKK für eine Wohnung und 149 DKK für ein Haus. Reinwasseranlage ohne Seifenreste, Festpreis pro Besuch und festes Intervall.",
+  "uk": "Миття вікон в Ольборзі від 129 DKK за квартиру та 149 DKK за будинок. Система очищеної води без залишків мила, фіксована ціна за візит і фіксований інтервал."
+ },
+ "Vinduespudsning i Aalborg: Husfeerne pudser vinduer med rentvandsstang": {
+  "en": "Window cleaning in Aalborg: Husfeerne cleaning windows with a water-fed pole",
+  "de": "Fensterreinigung in Aalborg: Husfeerne reinigt Fenster mit Reinwasserstange",
+  "uk": "Миття вікон в Ольборзі: Husfeerne миють вікна телескопічною штангою з очищеною водою"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "Privat rengøring": {
+  "en": "Home cleaning",
+  "de": "Privatreinigung",
+  "uk": "Прибирання дому"
+ },
+ "Erhvervsrengøring": {
+  "en": "Office cleaning",
+  "de": "Gewerbereinigung",
+  "uk": "Прибирання офісів"
+ },
+ "Flytterengøring": {
+  "en": "Move-out cleaning",
+  "de": "Umzugsreinigung",
+  "uk": "Прибирання при виїзді"
+ },
+ "Hovedrengøring": {
+  "en": "Deep cleaning",
+  "de": "Grundreinigung",
+  "uk": "Генеральне прибирання"
+ },
+ "Trappevask i opgange": {
+  "en": "Stairwell cleaning",
+  "de": "Treppenhausreinigung",
+  "uk": "Прибирання під’їздів"
+ },
+ "Vinduespudsning": {
+  "en": "Window cleaning",
+  "de": "Fensterreinigung",
+  "uk": "Миття вікон"
+ },
+ "Sofa-, tæppe- og tekstilrens": {
+  "en": "Sofa, carpet & textile cleaning",
+  "de": "Sofa-, Teppich- & Polsterreinigung",
+  "uk": "Чищення диванів, килимів і текстилю"
+ },
+ "Indvendig bilrengøring": {
+  "en": "Car interior cleaning",
+  "de": "Fahrzeuginnenreinigung",
+  "uk": "Прибирання салону авто"
+ },
+ "Byggerengøring & ejendomsservice": {
+  "en": "Construction & property cleaning",
+  "de": "Bau- & Gebäudereinigung",
+  "uk": "Прибирання після ремонту"
+ },
+ "Airbnb & udlejning": {
+  "en": "Airbnb & rentals",
+  "de": "Airbnb & Ferienwohnungen",
+  "uk": "Airbnb та орендне житло"
+ },
+ "Bliv ringet op": {
+  "en": "Get a call",
+  "de": "Rückruf",
+  "uk": "Замовити дзвінок"
+ },
+ "Rengøring med et smil – i Aalborg og hele Nordjylland.": {
+  "en": "Cleaning with a smile – in Aalborg and all of North Jutland.",
+  "de": "Reinigung mit einem Lächeln – in Aalborg und ganz Nordjütland.",
+  "uk": "Прибирання з усмішкою — в Ольборзі та по всій Північній Ютландії."
+ },
+ "Flittig · Venlig · Dygtig": {
+  "en": "Diligent · Friendly · Skilled",
+  "de": "Fleißig · Freundlich · Gründlich",
+  "uk": "Працьовиті · Привітні · Професійні"
+ }
+}

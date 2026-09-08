@@ -1,0 +1,317 @@
+{
+ "Trappevask Aalborg – fra 18 kr. pr. lejlighed | Husfeerne": {
+  "en": "Stairwell cleaning Aalborg from DKK 18/apartment | Husfeerne",
+  "de": "Treppenhausreinigung Aalborg – ab 18 DKK/Wohnung | Husfeerne",
+  "uk": "Прибирання під’їздів Ольборг від 18 DKK/квартира | Husfeerne"
+ },
+ "Trappevask i Aalborg – <span>fra 18 kr. pr. lejlighed</span>": {
+  "en": "Stairwell cleaning in Aalborg – <span>from DKK 18 per apartment</span>",
+  "de": "Treppenhausreinigung in Aalborg – <span>ab 18 DKK pro Wohnung</span>",
+  "uk": "Прибирання під’їздів в Ольборзі — <span>від 18 DKK за квартиру</span>"
+ },
+ "Opgangen er det første, en beboer eller en fremvisningsgæst ser. Vi tager den på en fast aftale – samme dag i intervallet, samme to medarbejdere, og én kontaktperson, bestyrelsen eller administrator kan ringe til.": {
+  "en": "The stairwell is the first thing a resident or a viewing guest sees. We take care of it on a fixed agreement – the same day in each interval, the same two cleaners, and one contact person the board or the property manager can call.",
+  "de": "Das Treppenhaus ist das Erste, was ein Bewohner oder ein Besichtigungsgast sieht. Wir übernehmen es mit einer festen Vereinbarung – derselbe Tag im Intervall, dieselben zwei Mitarbeiterinnen und eine Ansprechperson, die der Vorstand oder die Hausverwaltung anrufen kann.",
+  "uk": "Під’їзд — перше, що бачить мешканець або гість, який прийшов на огляд. Ми беремо його на постійну угоду — той самий день у кожному інтервалі, ті самі дві працівниці й одна контактна особа, якій може подзвонити правління чи керуюча компанія."
+ },
+ "Fra 18 kr./lejlighed/gang ex moms · fast aftale fra hver 4. uge": {
+  "en": "From DKK 18 per apartment per visit ex VAT · fixed agreement from every 4 weeks",
+  "de": "Ab 18 DKK/Wohnung/Besuch ohne MwSt. · feste Vereinbarung, mind. alle 4 Wochen",
+  "uk": "Від 18 DKK/квартира/візит без ПДВ · постійна угода, мін. кожні 4 тижні"
+ },
+ "Fra 18 kr.<small>Pr. lejlighed pr. gang, ex moms. Prisen afhænger af antal etager, lejligheder og belægning.</small>": {
+  "en": "From DKK 18<small>Per apartment per visit, ex VAT. The price depends on the number of floors, apartments and the flooring.</small>",
+  "de": "Ab 18 DKK<small>Pro Wohnung pro Besuch, ohne MwSt. Der Preis hängt von der Anzahl der Etagen und Wohnungen sowie vom Bodenbelag ab.</small>",
+  "uk": "Від 18 DKK<small>За квартиру за візит, без ПДВ. Ціна залежить від кількості поверхів, квартир і покриття підлоги.</small>"
+ },
+ "Fra hver 4. uge<small>Ugentligt, hver 14. dag eller hver 4. uge. Vi anbefaler et interval ud fra trafikken i opgangen.</small>": {
+  "en": "From every 4 weeks<small>Weekly, every two weeks or every 4 weeks. We recommend an interval based on the traffic in the stairwell.</small>",
+  "de": "Mind. alle 4 Wochen<small>Wöchentlich, alle 14 Tage oder alle 4 Wochen. Wir empfehlen ein Intervall je nach Verkehr im Treppenhaus.</small>",
+  "uk": "Від кожних 4 тижнів<small>Щотижня, кожні два тижні або кожні 4 тижні. Ми радимо інтервал залежно від інтенсивності руху в під’їзді.</small>"
+ },
+ "Én person<small>Bestyrelse, administrator eller udlejer har direkte nummer – ikke en kundeservice.</small>": {
+  "en": "One person<small>The board, property manager or landlord has a direct number – not a customer service line.</small>",
+  "de": "Eine Person<small>Vorstand, Hausverwaltung oder Vermieter haben eine Direktnummer – keinen Kundenservice.</small>",
+  "uk": "Одна особа<small>Правління, керуюча компанія чи орендодавець мають прямий номер — а не службу підтримки.</small>"
+ },
+ "Hvad en trappevask dækker": {
+  "en": "What a stairwell clean covers",
+  "de": "Was eine Treppenhausreinigung umfasst",
+  "uk": "Що входить у прибирання під’їзду"
+ },
+ "Vi aftaler omfanget skriftligt, så beboerne kan se, hvad der bliver gjort – og hvor ofte.": {
+  "en": "We agree the scope in writing, so the residents can see what is done – and how often.",
+  "de": "Wir vereinbaren den Umfang schriftlich, damit die Bewohner sehen können, was gemacht wird – und wie oft.",
+  "uk": "Ми узгоджуємо обсяг письмово, щоб мешканці бачили, що робиться — і як часто."
+ },
+ "Trapper, reposer, gelændere og vinduer i opgangen – på faste dage, af de samme to.": {
+  "en": "Stairs, landings, handrails and windows in the stairwell – on fixed days, by the same two.",
+  "de": "Treppen, Zwischenpodeste, Geländer und Fenster im Treppenhaus – an festen Tagen, von denselben zwei.",
+  "uk": "Сходи, майданчики, поручні та вікна в під’їзді — у визначені дні, тими самими двома працівницями."
+ },
+ "Trapper og gange": {
+  "en": "Stairs and corridors",
+  "de": "Treppen und Flure",
+  "uk": "Сходи та коридори"
+ },
+ "Trappetrin og reposer vasket": {
+  "en": "Steps and landings washed",
+  "de": "Stufen und Zwischenpodeste gewischt",
+  "uk": "Сходинки та майданчики вимиті"
+ },
+ "Gelændere og håndlister aftørret": {
+  "en": "Handrails and banisters wiped down",
+  "de": "Geländer und Handläufe abgewischt",
+  "uk": "Поручні та перила протерті"
+ },
+ "Fodpaneler og lister": {
+  "en": "Skirting boards and trims",
+  "de": "Sockelleisten und Kanten",
+  "uk": "Плінтуси та карнизи"
+ },
+ "Elevator: gulv, vægge og spejl": {
+  "en": "Lift: floor, walls and mirror",
+  "de": "Aufzug: Boden, Wände und Spiegel",
+  "uk": "Ліфт: підлога, стіни та дзеркало"
+ },
+ "Måtter støvsuget eller banket": {
+  "en": "Mats vacuumed or beaten",
+  "de": "Matten gesaugt oder ausgeklopft",
+  "uk": "Килимки пропилососені або вибиті"
+ },
+ "Postkasser og navneskilte aftørret": {
+  "en": "Mailboxes and nameplates wiped down",
+  "de": "Briefkästen und Namensschilder abgewischt",
+  "uk": "Поштові скриньки та таблички з іменами протерті"
+ },
+ "Døre, glas og lys": {
+  "en": "Doors, glass and lighting",
+  "de": "Türen, Glas und Licht",
+  "uk": "Двері, скло та освітлення"
+ },
+ "Entrédør og glaspartier": {
+  "en": "Entrance door and glass panels",
+  "de": "Eingangstür und Glasflächen",
+  "uk": "Вхідні двері та скляні панелі"
+ },
+ "Ruder i opgangen indvendigt": {
+  "en": "Stairwell windows on the inside",
+  "de": "Fensterscheiben im Treppenhaus innen",
+  "uk": "Вікна під’їзду зсередини"
+ },
+ "Lyskontakter og dørtelefon": {
+  "en": "Light switches and door entry phone",
+  "de": "Lichtschalter und Türsprechanlage",
+  "uk": "Вимикачі та домофон"
+ },
+ "Lamper og loftsarmaturer aftørret": {
+  "en": "Lamps and ceiling fixtures wiped down",
+  "de": "Lampen und Deckenleuchten abgewischt",
+  "uk": "Лампи та стельові світильники протерті"
+ },
+ "Vindueskarme": {
+  "en": "Window sills",
+  "de": "Fensterbänke",
+  "uk": "Підвіконня"
+ },
+ "Spindelvæv i hjørner og lofter": {
+  "en": "Cobwebs in corners and on ceilings",
+  "de": "Spinnweben in Ecken und an Decken",
+  "uk": "Павутина в кутках і на стелі"
+ },
+ "Kælder og fællesrum": {
+  "en": "Basement and shared rooms",
+  "de": "Keller und Gemeinschaftsräume",
+  "uk": "Підвал і спільні приміщення"
+ },
+ "Kældergange og trapper": {
+  "en": "Basement corridors and stairs",
+  "de": "Kellergänge und Treppen",
+  "uk": "Підвальні коридори та сходи"
+ },
+ "Cykel- og barnevognsrum": {
+  "en": "Bicycle and pram rooms",
+  "de": "Fahrrad- und Kinderwagenräume",
+  "uk": "Приміщення для велосипедів і дитячих візків"
+ },
+ "Vaskeri og tørrerum": {
+  "en": "Laundry and drying rooms",
+  "de": "Waschküche und Trockenraum",
+  "uk": "Пральня та сушильня"
+ },
+ "Affaldsrum og containergård": {
+  "en": "Bin rooms and container yard",
+  "de": "Müllraum und Containerplatz",
+  "uk": "Сміттєве приміщення та контейнерний майданчик"
+ },
+ "Loftsgange": {
+  "en": "Attic corridors",
+  "de": "Dachbodengänge",
+  "uk": "Коридори на горищі"
+ },
+ "Ekstraopgaver efter aftale med bestyrelsen – fx <a>rengøring af fælleslokaler og erhvervslejemål i ejendommen</a>": {
+  "en": "Extra tasks by agreement with the board – e.g. <a>cleaning of common rooms and commercial units in the building</a>",
+  "de": "Zusatzaufgaben nach Absprache mit dem Vorstand – z. B. <a>Reinigung von Gemeinschaftsräumen und Gewerbeeinheiten im Gebäude</a>",
+  "uk": "Додаткові роботи за домовленістю з правлінням — напр. <a>прибирання спільних приміщень і комерційних площ у будинку</a>"
+ },
+ "Til bestyrelsen": {
+  "en": "For the board",
+  "de": "Für den Vorstand",
+  "uk": "Для правління"
+ },
+ "Det, en boligforening skal kunne regne med": {
+  "en": "What a housing association should be able to count on",
+  "de": "Worauf sich eine Wohnungsgenossenschaft verlassen können muss",
+  "uk": "На що має розраховувати житлове товариство"
+ },
+ "Fast dag i intervallet": {
+  "en": "A fixed day in each interval",
+  "de": "Fester Tag im Intervall",
+  "uk": "Визначений день у кожному інтервалі"
+ },
+ "Trappevask bliver først et problem, når den bliver uforudsigelig. Vi lægger en fast dag, og kommer vi til at flytte den, får kontaktpersonen besked i forvejen.": {
+  "en": "Stairwell cleaning only becomes a problem when it becomes unpredictable. We set a fixed day, and if we ever have to move it, the contact person is told in advance.",
+  "de": "Treppenhausreinigung wird erst zum Problem, wenn sie unvorhersehbar wird. Wir legen einen festen Tag fest, und sollten wir ihn einmal verschieben müssen, wird die Ansprechperson vorab informiert.",
+  "uk": "Прибирання під’їзду стає проблемою лише тоді, коли воно стає непередбачуваним. Ми визначаємо сталий день, а якщо доведеться його перенести, контактна особа дізнається про це заздалегідь."
+ },
+ "Samme to medarbejdere": {
+  "en": "The same two cleaners",
+  "de": "Dieselben zwei Mitarbeiterinnen",
+  "uk": "Ті самі дві працівниці"
+ },
+ "De kender opgangen, koden og hvor tingene står. Beboerne kan se, at det er de samme, der kommer – det gør en forskel for trygheden i en opgang.": {
+  "en": "They know the stairwell, the door code and where things are kept. The residents can see that it is the same people who come – that makes a difference to how safe a stairwell feels.",
+  "de": "Sie kennen das Treppenhaus, den Code und wissen, wo die Dinge stehen. Die Bewohner sehen, dass immer dieselben kommen – das macht einen Unterschied für das Sicherheitsgefühl im Treppenhaus.",
+  "uk": "Вони знають під’їзд, код і де що стоїть. Мешканці бачать, що приходять ті самі люди — це має значення для відчуття безпеки в під’їзді."
+ },
+ "Skriftlig aftale og fast pris": {
+  "en": "Written agreement and fixed price",
+  "de": "Schriftliche Vereinbarung und Festpreis",
+  "uk": "Письмова угода та фіксована ціна"
+ },
+ "I får omfang, interval og pris på skrift, så det kan lægges frem på generalforsamlingen. Prisen ligger fast i aftaleperioden, og der er ingen binding ud over den.": {
+  "en": "You get the scope, interval and price in writing, so it can be presented at the general meeting. The price is fixed for the agreement period, and there is no binding beyond it.",
+  "de": "Sie erhalten Umfang, Intervall und Preis schriftlich, sodass alles auf der Eigentümerversammlung vorgelegt werden kann. Der Preis steht für die Vertragslaufzeit fest, und darüber hinaus gibt es keine Bindung.",
+  "uk": "Ви отримуєте обсяг, інтервал і ціну письмово, щоб їх можна було представити на загальних зборах. Ціна фіксована на весь період угоди, і жодних зобов’язань після нього немає."
+ },
+ "Fra henvendelse til første vask": {
+  "en": "From enquiry to first clean",
+  "de": "Von der Anfrage bis zur ersten Reinigung",
+  "uk": "Від звернення до першого прибирання"
+ },
+ "Vi ser opgangen": {
+  "en": "We look at the stairwell",
+  "de": "Wir sehen uns das Treppenhaus an",
+  "uk": "Ми оглядаємо під’їзд"
+ },
+ "Vi kommer forbi og ser etager, belægning og slid, så tilbuddet passer til opgangen og ikke til et gennemsnit.": {
+  "en": "We drop by and look at the floors, the flooring and the wear, so the quote fits the stairwell and not an average.",
+  "de": "Wir kommen vorbei und sehen uns Etagen, Bodenbelag und Abnutzung an, damit das Angebot zum Treppenhaus passt und nicht zu einem Durchschnitt.",
+  "uk": "Ми заїжджаємо й дивимося на поверхи, покриття та зношеність, щоб пропозиція відповідала саме вашому під’їзду, а не середньому показнику."
+ },
+ "I får et tilbud pr. lejlighed": {
+  "en": "You get a quote per apartment",
+  "de": "Sie erhalten ein Angebot pro Wohnung",
+  "uk": "Ви отримуєте пропозицію з ціною за квартиру"
+ },
+ "Prisen bliver regnet ud pr. lejlighed pr. gang, så den er nem at fordele i budgettet og at fremlægge for beboerne.": {
+  "en": "The price is calculated per apartment per visit, so it is easy to allocate in the budget and to present to the residents.",
+  "de": "Der Preis wird pro Wohnung pro Besuch berechnet, sodass er sich leicht im Budget verteilen und den Bewohnern vorlegen lässt.",
+  "uk": "Ціна розраховується за квартиру за візит, тож її легко розподілити в бюджеті та представити мешканцям."
+ },
+ "Vi kører fast": {
+  "en": "We come regularly",
+  "de": "Wir kommen regelmäßig",
+  "uk": "Ми приїжджаємо регулярно"
+ },
+ "Vi starter på den aftalte dag og holder intervallet. Skal noget ændres, ringer kontaktpersonen direkte til os.": {
+  "en": "We start on the agreed day and keep to the interval. If anything needs changing, the contact person calls us directly.",
+  "de": "Wir beginnen am vereinbarten Tag und halten das Intervall ein. Soll sich etwas ändern, ruft die Ansprechperson uns direkt an.",
+  "uk": "Ми починаємо в узгоджений день і дотримуємося інтервалу. Якщо щось потрібно змінити, контактна особа телефонує нам напряму."
+ },
+ "Trappevask afregnes pr. lejlighed pr. gang – vejledende fra 18 kr. ex moms – på en fast aftale med minimum hver 4. uge. Den præcise pris afhænger af antal etager og lejligheder, af belægningen og af, hvor meget trafik der er i opgangen.": {
+  "en": "Stairwell cleaning is charged per apartment per visit – as a guide from DKK 18 ex VAT – on a fixed agreement of at least every 4 weeks. The exact price depends on the number of floors and apartments, on the flooring and on how much traffic the stairwell gets.",
+  "de": "Treppenhausreinigung wird pro Wohnung pro Besuch abgerechnet – als Richtwert ab 18 DKK ohne MwSt. – mit einer festen Vereinbarung von mindestens alle 4 Wochen. Der genaue Preis hängt von der Anzahl der Etagen und Wohnungen, vom Bodenbelag und davon ab, wie viel Verkehr im Treppenhaus herrscht.",
+  "uk": "Прибирання під’їзду оплачується за квартиру за візит — орієнтовно від 18 DKK без ПДВ — за постійною угодою з інтервалом щонайменше кожні 4 тижні. Точна ціна залежить від кількості поверхів і квартир, від покриття підлоги та від того, наскільки інтенсивний рух у під’їзді."
+ },
+ "Alle midler og alt udstyr er inkluderet. Kørsel er gratis i hele Aalborg Kommune – opgange i midtbyen, Vestbyen, Vejgaard, Aalborg Øst og Nørresundby såvel som i Skalborg og Svenstrup; uden for kommunen aftaler vi et kørselstillæg på forhånd. <a>Vinduespudsning i opgangen</a> og rengøring af kælder- og fællesrum kan lægges ind i den samme aftale.": {
+  "en": "All products and equipment are included. Travel is free throughout Aalborg Municipality – stairwells in the city centre, Vestbyen, Vejgaard, Aalborg Øst and Nørresundby as well as in Skalborg and Svenstrup; outside the municipality we agree a travel fee up front. <a>Window cleaning in the stairwell</a> and cleaning of basement and shared rooms can be included in the same agreement.",
+  "de": "Alle Mittel und Geräte sind inklusive. Die Anfahrt ist in der gesamten Kommune Aalborg kostenlos – Treppenhäuser im Zentrum, in Vestbyen, Vejgaard, Aalborg Øst und Nørresundby ebenso wie in Skalborg und Svenstrup; außerhalb der Kommune vereinbaren wir vorab einen Fahrtkostenzuschlag. <a>Fensterreinigung im Treppenhaus</a> und die Reinigung von Keller- und Gemeinschaftsräumen können in dieselbe Vereinbarung aufgenommen werden.",
+  "uk": "Усі засоби та обладнання включені. Дорога безкоштовна в усій комуні Ольборг — під’їзди в центрі, у Vestbyen, Vejgaard, Aalborg Øst і Nørresundby, а також у Skalborg і Svenstrup; за межами комуни ми заздалегідь узгоджуємо доплату за дорогу. <a>Миття вікон у під’їзді</a> та прибирання підвалу й спільних приміщень можна включити в ту саму угоду."
+ },
+ "Spørgsmål om trappevask": {
+  "en": "Questions about stairwell cleaning",
+  "de": "Fragen zur Treppenhausreinigung",
+  "uk": "Питання про прибирання під’їздів"
+ },
+ "Hvad koster trappevask i Aalborg?": {
+  "en": "What does stairwell cleaning cost in Aalborg?",
+  "de": "Was kostet Treppenhausreinigung in Aalborg?",
+  "uk": "Скільки коштує прибирання під’їзду в Ольборзі?"
+ },
+ "Fra 18 kr. pr. lejlighed pr. gang ex moms på en fast aftale. Prisen afhænger af antal etager og lejligheder, belægningen og trafikken i opgangen – I får en fast pris efter et besøg i opgangen.": {
+  "en": "From DKK 18 per apartment per visit ex VAT on a fixed agreement. The price depends on the number of floors and apartments, the flooring and the traffic in the stairwell – you get a fixed price after a visit to the stairwell.",
+  "de": "Ab 18 DKK pro Wohnung pro Besuch ohne MwSt. mit einer festen Vereinbarung. Der Preis hängt von der Anzahl der Etagen und Wohnungen, vom Bodenbelag und vom Verkehr im Treppenhaus ab – Sie erhalten einen Festpreis nach einem Besuch im Treppenhaus.",
+  "uk": "Від 18 DKK за квартиру за візит без ПДВ за постійною угодою. Ціна залежить від кількості поверхів і квартир, покриття підлоги та інтенсивності руху в під’їзді — ви отримуєте фіксовану ціну після огляду під’їзду."
+ },
+ "Hvor ofte bør en opgang vaskes?": {
+  "en": "How often should a stairwell be cleaned?",
+  "de": "Wie oft sollte ein Treppenhaus gereinigt werden?",
+  "uk": "Як часто слід прибирати під’їзд?"
+ },
+ "Hver 14. dag passer de fleste opgange. Er der meget trafik, erhverv i bygningen eller mange børnefamilier, giver ugentlig vask et mærkbart bedre indtryk. Minimum på en fast aftale er hver 4. uge.": {
+  "en": "Every two weeks suits most stairwells. If there is a lot of traffic, businesses in the building or many families with children, weekly cleaning gives a noticeably better impression. The minimum on a fixed agreement is every 4 weeks.",
+  "de": "Alle 14 Tage passt für die meisten Treppenhäuser. Bei viel Verkehr, Gewerbe im Gebäude oder vielen Familien mit Kindern hinterlässt eine wöchentliche Reinigung einen spürbar besseren Eindruck. Das Minimum bei einer festen Vereinbarung ist alle 4 Wochen.",
+  "uk": "Кожні два тижні підходить більшості під’їздів. Якщо рух інтенсивний, у будинку є бізнес або багато сімей з дітьми, щотижневе прибирання справляє помітно краще враження. Мінімум за постійною угодою — кожні 4 тижні."
+ },
+ "Hvem laver aftalen – bestyrelsen eller administrator?": {
+  "en": "Who makes the agreement – the board or the property manager?",
+  "de": "Wer schließt die Vereinbarung – der Vorstand oder die Hausverwaltung?",
+  "uk": "Хто укладає угоду — правління чи керуюча компанія?"
+ },
+ "Begge går an. Vi laver aftalen med den, der har mandatet, og der er én kontaktperson med direkte nummer til os. Beboerne skal ikke igennem en kundeservice for at få en besked frem.": {
+  "en": "Either works. We make the agreement with whoever holds the mandate, and there is one contact person with a direct number to us. Residents don't have to go through a customer service line to get a message through.",
+  "de": "Beides geht. Wir schließen die Vereinbarung mit demjenigen, der das Mandat hat, und es gibt eine Ansprechperson mit Direktnummer zu uns. Die Bewohner müssen nicht durch einen Kundenservice, damit eine Nachricht ankommt.",
+  "uk": "Підходить будь-який варіант. Ми укладаємо угоду з тим, хто має повноваження, і є одна контактна особа з прямим номером до нас. Мешканцям не потрібно проходити через службу підтримки, щоб донести повідомлення."
+ },
+ "Kan I også pudse vinduerne i opgangen?": {
+  "en": "Can you also clean the windows in the stairwell?",
+  "de": "Können Sie auch die Fenster im Treppenhaus putzen?",
+  "uk": "Чи можете ви також помити вікна в під’їзді?"
+ },
+ "Ja. <a>Vinduer i opgange og fællesarealer</a> kan lægges ind i den samme aftale, enten hver gang eller nogle gange om året. Vi bruger rentvandsanlæg, så der ikke står striber tilbage.": {
+  "en": "Yes. <a>Windows in stairwells and shared areas</a> can be included in the same agreement, either every visit or a few times a year. We use a pure-water system, so no streaks are left behind.",
+  "de": "Ja. <a>Fenster in Treppenhäusern und Gemeinschaftsflächen</a> können in dieselbe Vereinbarung aufgenommen werden, entweder bei jedem Besuch oder einige Male im Jahr. Wir verwenden eine Reinwasseranlage, damit keine Streifen zurückbleiben.",
+  "uk": "Так. <a>Вікна в під’їздах і спільних зонах</a> можна включити в ту саму угоду — або щоразу, або кілька разів на рік. Ми використовуємо систему очищеної води, тож розводів не залишається."
+ },
+ "Tager I kældergange, cykelrum og vaskeri med?": {
+  "en": "Do you also do basement corridors, bicycle rooms and the laundry?",
+  "de": "Übernehmen Sie auch Kellergänge, Fahrradraum und Waschküche?",
+  "uk": "Чи прибираєте ви також підвальні коридори, велосипедну кімнату та пральню?"
+ },
+ "Ja, kældergange, cykel- og barnevognsrum, vaskeri, tørrerum og affaldsrum kan være en del af aftalen. Det er ofte de rum, beboerne først klager over.": {
+  "en": "Yes, basement corridors, bicycle and pram rooms, the laundry, drying room and bin room can be part of the agreement. Those are often the rooms residents complain about first.",
+  "de": "Ja, Kellergänge, Fahrrad- und Kinderwagenräume, Waschküche, Trockenraum und Müllraum können Teil der Vereinbarung sein. Das sind oft die Räume, über die sich Bewohner zuerst beschweren.",
+  "uk": "Так, підвальні коридори, приміщення для велосипедів і візків, пральня, сушильня та сміттєве приміщення можуть бути частиною угоди. Часто саме на ці приміщення мешканці скаржаться першими."
+ },
+ "Nej, ud over den aftaleperiode I selv vælger. Prisen ligger fast i perioden, og omfanget kan justeres, hvis behovet ændrer sig.": {
+  "en": "No, beyond the agreement period you choose yourselves. The price is fixed for the period, and the scope can be adjusted if your needs change.",
+  "de": "Nein, abgesehen von der Vertragslaufzeit, die Sie selbst wählen. Der Preis steht für die Laufzeit fest, und der Umfang kann angepasst werden, wenn sich der Bedarf ändert.",
+  "uk": "Ні, крім періоду угоди, який ви обираєте самі. Ціна фіксована на цей період, а обсяг можна скоригувати, якщо потреби зміняться."
+ },
+ "Trappevask i opgange i Aalborg og Nordjylland fra 18 kr. pr. lejlighed pr. gang ex moms. Fast aftale, faste medarbejdere og én kontaktperson for bestyrelsen.": {
+  "en": "Stairwell cleaning in Aalborg and North Jutland from DKK 18 per apartment per visit ex VAT. Fixed agreement, regular cleaners and one contact for the board.",
+  "de": "Treppenhausreinigung in Aalborg und Nordjütland ab 18 DKK pro Wohnung und Besuch ohne MwSt. Fester Vertrag, festes Team, eine Ansprechperson für den Vorstand.",
+  "uk": "Прибирання під’їздів в Ольборзі й Північній Ютландії від 18 DKK/квартира/візит без ПДВ. Постійна угода, ті самі працівниці, одна контактна особа для правління."
+ },
+ "Trappevask i Aalborg: Husfeerne vasker trappen i en opgang": {
+  "en": "Stairwell cleaning in Aalborg: Husfeerne washing the stairs in a stairwell",
+  "de": "Treppenhausreinigung in Aalborg: Husfeerne wischt die Treppe in einem Treppenhaus",
+  "uk": "Прибирання під’їздів в Ольборзі: Husfeerne миє сходи в під’їзді"
+ },
+ "Ja. Vinduer i opgange og fællesarealer kan lægges ind i den samme aftale, enten hver gang eller nogle gange om året. Vi bruger rentvandsanlæg, så der ikke står striber tilbage.": {
+  "en": "Yes. Windows in stairwells and shared areas can be included in the same agreement, either every visit or a few times a year. We use a pure-water system, so no streaks are left behind.",
+  "de": "Ja. Fenster in Treppenhäusern und Gemeinschaftsflächen können in dieselbe Vereinbarung aufgenommen werden, entweder bei jedem Besuch oder einige Male im Jahr. Wir verwenden eine Reinwasseranlage, damit keine Streifen zurückbleiben.",
+  "uk": "Так. Вікна в під’їздах і спільних зонах можна включити в ту саму угоду — або щоразу, або кілька разів на рік. Ми використовуємо систему очищеної води, тож розводів не залишається."
+ }
+}

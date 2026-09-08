@@ -1,31 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://husfeerne.dk/</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/"/>
   </url>
   <url>
     <loc>https://husfeerne.dk/privat-rengoering-aalborg.html</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/home-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/privatreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-domu-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/home-cleaning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/home-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/privatreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-domu-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/privatreinigung-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/home-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/privatreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-domu-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/prybyrannia-domu-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/home-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/privatreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-domu-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/privat-rengoering-aalborg.html"/>
   </url>
   <url>
     <loc>https://husfeerne.dk/erhvervsrengoering-aalborg.html</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/office-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/bueroreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-ofisiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/office-cleaning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/office-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/bueroreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-ofisiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/bueroreinigung-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/office-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/bueroreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-ofisiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/prybyrannia-ofisiv-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/office-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/bueroreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-ofisiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/erhvervsrengoering-aalborg.html"/>
   </url>
   <url>
     <loc>https://husfeerne.dk/flytterengoering-aalborg.html</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/move-out-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/umzugsreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pry-vyizdi-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/move-out-cleaning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/move-out-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/umzugsreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pry-vyizdi-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/umzugsreinigung-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/move-out-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/umzugsreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pry-vyizdi-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/prybyrannia-pry-vyizdi-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/move-out-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/umzugsreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pry-vyizdi-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/flytterengoering-aalborg.html"/>
   </url>
   <url>
     <loc>https://husfeerne.dk/hovedrengoering-aalborg.html</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/deep-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/grundreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/heneralne-prybyrannia-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/deep-cleaning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/deep-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/grundreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/heneralne-prybyrannia-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/grundreinigung-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/deep-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/grundreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/heneralne-prybyrannia-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/heneralne-prybyrannia-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/deep-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/grundreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/heneralne-prybyrannia-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/hovedrengoering-aalborg.html"/>
   </url>
   <url>
     <loc>https://husfeerne.dk/vinduespudsning-aalborg.html</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/window-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/fensterreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/myttia-vikon-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/window-cleaning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/window-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/fensterreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/myttia-vikon-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/fensterreinigung-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/window-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/fensterreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/myttia-vikon-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/myttia-vikon-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/window-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/fensterreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/myttia-vikon-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/vinduespudsning-aalborg.html"/>
   </url>
   <url>
     <loc>https://husfeerne.dk/trappevask-aalborg.html</loc>
     <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/stairwell-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/treppenhausreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pidizdiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/en/stairwell-cleaning-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/stairwell-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/treppenhausreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pidizdiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/de/treppenhausreinigung-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/stairwell-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/treppenhausreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pidizdiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+  </url>
+  <url>
+    <loc>https://husfeerne.dk/uk/prybyrannia-pidizdiv-aalborg.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="da" href="https://husfeerne.dk/trappevask-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://husfeerne.dk/en/stairwell-cleaning-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://husfeerne.dk/de/treppenhausreinigung-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://husfeerne.dk/uk/prybyrannia-pidizdiv-aalborg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://husfeerne.dk/trappevask-aalborg.html"/>
   </url>
 </urlset>

@@ -56,10 +56,11 @@ FAVICON = ('<link rel="icon" type="image/svg+xml" href=\'data:image/svg+xml,'
   '<path d="M33 55 C33 36 39 22 52 13 C52 34 45 48 33 55 Z" fill="%23E9C8C1"/>'
   '<path d="M31 55 C31 40 25 29 13 22 C13 40 19 50 31 55 Z" fill="%23FAF7F1"/>'
   '<path d="M32 57 L32 40" stroke="%23FAF7F1" stroke-width="2.4" stroke-linecap="round"/></svg>\'>')
-FONTE = ('<link rel="preconnect" href="https://fonts.googleapis.com">\n'
-  '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
-  '<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,600'
-  '&family=Lato:wght@400;700&display=swap" rel="stylesheet">')
+FONTE = ('<link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/cormorant-garamond-600-700-latin.woff2">\n'
+  '<link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/lato-400-latin.woff2">\n'
+  '<link rel="stylesheet" href="/fonts.css">')
+# Lato har ingen kyrilliske tegn; de russiske sider saetter broedteksten i Source Sans 3 (ligger ogsaa i fonts.css).
+FONTE_RU = FONTE.replace('lato-400-latin.woff2', 'source-sans-3-400-700-cyrillic.woff2') + "\n<style>:root{--body:'Source Sans 3',system-ui,sans-serif}</style>"
 
 # ------------------------------------------------------------------ markdown
 def inline(t):
@@ -159,7 +160,7 @@ def side_skelet(lang, title, body, rel_root, nav_docs, nav_langs, klasse='doc'):
 <meta name="robots" content="noindex, nofollow">
 {FAVICON}
 <meta name="theme-color" content="#113E29">
-{FONTE}
+{FONTE_RU if lang == 'ru' else FONTE}
 <link rel="stylesheet" href="{rel_root}cherpak/cherpak.css">
 </head>
 <body>

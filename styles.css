@@ -363,6 +363,7 @@ footer a:hover{color:var(--blush)}
 .intro-split{align-items:center;margin-top:0}
 .side-foto{margin:0}
 .side-foto img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center 35%;border-radius:var(--radius);box-shadow:var(--shadow)}
+.side-foto.landscape img{aspect-ratio:4/3}
 .side-foto figcaption{font-size:.82rem;color:var(--ink-soft);margin-top:10px}
 @media(max-width:960px){ .side-foto{max-width:440px;margin:0 auto} }
 
